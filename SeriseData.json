@@ -1,0 +1,363 @@
+{
+    "Series": [
+        {
+            "id": 1,
+            "title": "Breaking Bad",
+            "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+            "category": [
+                "Psychological Drama",
+                "Tragedy",
+                "Crime",
+                "Drama",
+                "Thriller",
+                "Psychological Thriller",
+                "Dark Comedy"
+            ],
+            "Creator": [
+                "Vince Gilligan"
+            ],
+            "Stars": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn"
+            ],
+            "Seasons": 5,
+            "Episodes": 62,
+            "Status": "Finshed",
+            "StartYear": 2008,
+            "EndYear": 2013,
+            "Rate": 9.5,
+            "Summary": "Reviewers say 'Breaking Bad' stands as a television masterpiece with near-perfect writing, exceptional performances led by Bryan Cranston, and stunning cinematography that elevates every frame. The show's complex character development and addictive storytelling create an unforgettable viewing experience that maintains its impact through multiple rewatches. While overwhelmingly praised as one of the greatest series ever made, some found it emotionally exhausting, and a few noted the final season's antagonists were less compelling than earlier villains.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/98/a7/df/98a7df05ad4ccee3a97b1b91d896005c.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Better Call Saul",
+            "description": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
+            "category": [
+                "Psychological Drama",
+                "Tragedy",
+                "Crime",
+                "Drama",
+                "Dark Comedy"
+            ],
+            "Creator": [
+                "Vince Gilligan",
+                "Peter Gould"
+            ],
+            "Stars": [
+                "Bob Odenkirk",
+                "Rhea Seehorn",
+                "Jonathan Banks"
+            ],
+            "Seasons": 6,
+            "Episodes": 63,
+            "Status": "Finshed",
+            "StartYear": 2015,
+            "EndYear": 2022,
+            "Rate": 9.0,
+            "Summary": "Reviewers say 'Better Call Saul' delivers exceptional character development and writing, with Bob Odenkirk leading an outstanding ensemble cast through morally complex storylines. The cinematography is visually stunning, and the show is hailed as one of television's greatest achievements. However, the deliberate pacing divides audiences—some find it a rewarding slow burn that allows appreciation of details, while others consider it too slow, particularly in early seasons. Breaking Bad fans especially appreciate the connections and easter eggs throughout.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/21/0b/4f/210b4f0bca4ece6d62fb9a6e6e44f7f1.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Game of Thrones",
+            "description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
+            "category": [
+                "Epic",
+                "Adventure Epic",
+                "Adventure",
+                "Fantasy",
+                "Drama"
+            ],
+            "Creator": [
+                "David Benioff",
+                "D.B. Weiss"
+            ],
+            "Stars": [
+                "Emilia Clarke",
+                "Peter Dinklage",
+                "Kit Harington"
+            ],
+            "Seasons": 8,
+            "Episodes": 73,
+            "Status": "Finshed",
+            "StartYear": 2011,
+            "EndYear": 2019,
+            "Rate": 9.2,
+            "Summary": "Reviewers say 'Game of Thrones' stands as a cultural phenomenon with superb acting, complex characters, and unpredictable storytelling that captivated audiences. The series earned praise for its compelling early seasons and faithful adaptation of source material. However, most reviewers noted significant quality decline in later seasons, with season eight drawing particular criticism for rushed, disappointing writing that undermined carefully built character arcs and delivered an unsatisfying conclusion that many felt betrayed years of investment.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/bb/0a/ba/bb0aba433814f2033bd64c6c30ed4788.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Chernobyl",
+            "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+            "category": [
+                "Docudrama",
+                "Psychological Drama",
+                "Drama",
+                "Epic",
+                "History",
+                "Thriller",
+                "Disaster"
+            ],
+            "Creator": [
+                "Craig Mazin"
+            ],
+            "Stars": [
+                "Jared Harris",
+                "Jessie Buckley",
+                "Stellan Skarsgård"
+            ],
+            "Seasons": 1,
+            "Episodes": 5,
+            "Status": "Finshed",
+            "StartYear": 2019,
+            "EndYear": 2019,
+            "Rate": 9.3,
+            "Summary": "Reviewers say 'Chernobyl' delivers an emotionally devastating and deeply captivating experience, with impeccable acting performances and meticulous production design that authentically recreates Soviet-era details. The series is praised for its educational value, thought-provoking themes, and haunting atmosphere that keeps viewers gripped throughout. While most applaud its historical accuracy and realism, some criticize certain dramatizations as artistic liberties that distort the true story. The show's portrayal of Soviet politics receives mixed reception, with one reviewer questioning its accuracy.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/4c/a5/1c/4ca51c82439f601ad80222f0782409d1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "The Queen's Gambit",
+            "description": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+            "category": [
+                "Epic",
+                "Drama",
+                "Psychological Drama",
+                "History"
+            ],
+            "Creator": [
+                "Scott Frank",
+                "Allan Scott"
+            ],
+            "Stars": [
+                "Anya Taylor-Joy",
+                "Chloe Pirrie",
+                "Bill Camp"
+            ],
+            "Seasons": 1,
+            "Episodes": 7,
+            "Status": "Finshed",
+            "StartYear": 2020,
+            "EndYear": 2020,
+            "Rate": 8.5,
+            "Summary": "Reviewers say 'The Queen's Gambit' delivers stunning cinematography and exceptional performances, particularly from Anya Taylor-Joy, complemented by a perfect musical score. The series captivated most viewers as highly binge-worthy, making chess compelling and emotionally engaging. However, some found the pacing dragged with repetitive chess sequences, while others felt character development and darker themes remained superficial. Despite mixed opinions on storytelling depth, the majority celebrate it as beautifully crafted and empowering entertainment.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/69/b5/ea/69b5eaed08a3d49e113e366428bf5474.jpg"
+        },
+        {
+            "id": 6,
+            "title": "La casa de papel (Money Heist)",
+            "description": "An unusual group of robbers attempts to carry out the most perfect robbery in Spanish history: stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "category": [
+                "Action",
+                "Drama",
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "Creator": [
+                "Álex Pina"
+            ],
+            "Stars": [
+                "Úrsula Corberó",
+                "Álvaro Morte",
+                "Itziar Ituño"
+            ],
+            "Seasons": 5,
+            "Episodes": 41,
+            "Status": "Finshed",
+            "StartYear": 2017,
+            "EndYear": 2021,
+            "Rate": 8.2,
+            "Summary": "Reviewers say 'Money Heist' delivers an incredibly addictive, binge-worthy experience with unpredictable twists, suspenseful cliffhangers, and excellent performances, particularly from Alvaro Morte and Pedro Alonso. The engaging storytelling keeps viewers on the edge of their seats. However, many criticize the show's implausible scenarios and far-fetched plot points. Pacing issues emerge in later seasons, with stretched narratives and declining quality. Despite these flaws, most found the series highly entertaining and compelling throughout.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/736x/55/4d/e7/554de7bf6c371afa9ecd294fc9355d8b.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Paranormal",
+            "description": "Set in the 1960s, the series, packed with mystery and suspense, depicts the adventures of Doctor Refaat Ismail, a single hematologist who finds himself faced with a series of supernatural events.",
+            "category": [
+                "Psychological Drama",
+                "Arabic",
+                "Psychological Horror",
+                "Thriller",
+                "Drama",
+                "Fantasy",
+                "Horror",
+                "Mystery"
+            ],
+            "Creator": [
+                "Amr Salama"
+            ],
+            "Stars": [
+                "Ahmed Amin",
+                "Razane Jammal",
+                "Aya Samaha"
+            ],
+            "Seasons": 1,
+            "Episodes": 6,
+            "Status": "Finshed",
+            "StartYear": 2020,
+            "EndYear": 2020,
+            "Rate": 7.9,
+            "Summary": "Reviewers say 'Paranormal' delivers exceptional performances, particularly Ahmed Amin's lead role, alongside stunning cinematography and an impressive musical score that elevate the production. The suspenseful storytelling keeps viewers engaged throughout. However, the series disappoints with its unlikeable protagonist and underdeveloped supporting characters. The adaptation significantly deviates from beloved source novels, frustrating fans. Horror elements prove divisive, with many finding genuine scares absent. While praised as quality Arabic television, the show prioritizes supernatural mystery over traditional horror, creating mixed reactions about its genre execution.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/60/8a/37/608a37223306d02b4e3f6d909a4bef3e.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Special Case",
+            "description": "Nadeem's journey, full of challenges, was never easy. Despite exploitation, his character and pure heart consistently rescued him.",
+            "category": [
+                "Arabic",
+                "Drama",
+                "Comedy",
+                "Dark Comedy"
+            ],
+            "Creator": [
+                "Mohab Tarek"
+            ],
+            "Stars": [
+                "Hagar El Sarrag",
+                "Lina Ehab",
+                "Taha Desouky"
+            ],
+            "Seasons": 1,
+            "Episodes": 6,
+            "Status": "Finshed",
+            "StartYear": 2024,
+            "EndYear": 2024,
+            "Rate": 7.4,
+            "Summary": "We follow the story of Nadim, a man with special abilities who applies for a job at lawyer Amani Al-Najjar’s firm, only to find himself facing fierce competition; through this, we discover the truth behind his joining the firm and his reasons for choosing Amani Al-Najjar.",
+            "Type": "series",
+            "Images": "https://cdn.al-ain.com/lg/images/2024/1/08/196-164955-artist-hajar-alsarraj-2.jpeg"
+        },
+        {
+            "id": 9,
+            "title": "Apartment Works",
+            "description": "A forensic doctor named Hamdi Abdel Rahim and his wife are expecting twins after a long marriage. They make the difficult decision to hire a home manager to look after the twins, but they struggle a lot to find someone.",
+            "category": [
+                "Arabic",
+                "Comedy",
+                "Sitcom"
+            ],
+            "Creator": [
+                "Khaled Diab",
+                "Sherine Diab"
+            ],
+            "Stars": [
+                "Hesham Maged",
+                "Asmaa Galal",
+                "Mostafa Gharieb"
+            ],
+            "Seasons": 2,
+            "Episodes": 30,
+            "Status": "Finshed",
+            "StartYear": 2024,
+            "EndYear": 2025,
+            "Rate": 7.6,
+            "Summary": "When forensic pathologist Hamdi and TV presenter Yasmine are blessed with twins, they decide to hire a domestic worker. However, this decision soon leads to problems they could well do without.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/736x/77/ea/28/77ea28838b1cedd6b5b5a9a4c6b09838.jpg"
+        },
+        {
+            "id": 10,
+            "title": "6 months",
+            "description": "Murad and Latifa compete for a sales position at a real estate company. Sales challenges reveal much about their true ambitions during a six-month probation period.",
+            "category": [
+                "Arabic",
+                "Drama",
+                "Comedy",
+                "Psychological Drama"
+            ],
+            "Creator": [
+                "Ahmed Hisham Farouk",
+                "Amr Abu Zeid"
+            ],
+            "Stars": [
+                "Nour Nabawy",
+                "Nour Ehab",
+                "Marwan Fares"
+            ],
+            "Seasons": 1,
+            "Episodes": 10,
+            "Status": "Finshed",
+            "StartYear": 2024,
+            "EndYear": 2024,
+            "Rate": 7.1,
+            "Summary": "Murad and Latifa compete for a sales position at a real estate company; over a six-month probationary period, the challenges of the job reveal a great deal about their true ambitions.",
+            "Type": "series",
+            "Images": "https://d3mfc5qyv0pefp.cloudfront.net/eyJidWNrZXQiOiJ3aXRpbWFnZXMiLCJrZXkiOiJpbWdzL2NsaXBzLzExMzk2OTE3Mjg1NDMyMjQ5ODcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMTkyMCIsImhlaWdodCI6IjEwODAifSwidG9Gb3JtYXQiOiJqcGciLCJqcGVnIjp7InF1YWxpdHkiOjUwfX19?signature=7cd679a8970b7f4436ecc41e3d39982196dc48452b8cec0b5d23c2e8c8db58a8"
+        },
+        {
+            "id": 11,
+            "title": "Arcane",
+            "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+            "category": [
+                "Action",
+                "Animation",
+                "Fantasy",
+                "Psychological Drama",
+                "Drama",
+                "Epic"
+            ],
+            "Creator": [
+                "Christian Linke",
+                "Alex Yee"
+            ],
+            "Stars": [
+                "Kevin Alejandro",
+                "Hailee Steinfeld",
+                "Ella Purnell"
+            ],
+            "Seasons": 2,
+            "Episodes": 18,
+            "Status": "Finshed",
+            "StartYear": 2021,
+            "EndYear": 2024,
+            "Rate": 9.0,
+            "Summary": "Reviewers say 'Arcane' delivers groundbreaking animation with a stunning blend of 3D and 2D styles, masterful worldbuilding in its steampunk universe, and complex morally grey characters brought to life by exceptional voice acting. While Season 1 received universal acclaim for its careful storytelling and character development, Season 2 divided audiences with rushed pacing and less character-focused writing. Despite mixed opinions on execution, most found the series highly engaging and praised its success as a video game adaptation accessible to all viewers.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/c1/31/f3/c131f3b6563552f01bf5abdd93af9eb3.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Death Note",
+            "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+            "category": [
+                "Action",
+                "Drama",
+                "Animation",
+                "Fantasy",
+                "Crime",
+                "Disaster"
+            ],
+            "Creator": [
+                "Tsugumi Ohba"
+            ],
+            "Stars": [
+                "Mamoru Miyano",
+                "Brad Swaile",
+                "Vincent Tong"
+            ],
+            "Seasons": 1,
+            "Episodes": 37,
+            "Status": "Finshed",
+            "StartYear": 2006,
+            "EndYear": 2007,
+            "Rate": 8.9,
+            "Summary": "Reviewers say 'Death Note' delivers an intensely gripping psychological thriller with brilliant mind games between genius-level characters. The intelligent writing, moral complexity, and cat-and-mouse tension keep audiences captivated, particularly in the first half. Viewers praised the thought-provoking exploration of justice and power, alongside unpredictable twists. However, some found the pacing dragged in later episodes with less compelling new characters, and the ending proved divisive—some calling it perfect while others felt disappointed by the conclusion.",
+            "Type": "series",
+            "Images": "https://i.pinimg.com/1200x/46/c3/10/46c3105a30594b2b8d59f5cc7ff5f2bd.jpg"
+        }
+    ],
+    "Total": 12
+}

@@ -1,0 +1,1057 @@
+{
+    "Movies": [
+        {
+            "id": 1,
+            "title": "Interstellar",
+            "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+            "category": [
+                "Time Travel",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Director": "Christopher Nolan",
+            "Writers": [
+                "Jonathan Nolan",
+                "Christopher Nolan"
+            ],
+            "Stars": [
+                "Matthew McConaughey",
+                "Anne Hathaway",
+                "Jessica Chastain"
+            ],
+            "Time": 2.49,
+            "Year": 2014,
+            "Rate": 8.7,
+            "Storyline": "Reviewers say 'Interstellar' is a monumental sci-fi epic that excels through Hans Zimmer's powerful score, thought-provoking philosophical depth, and Matthew McConaughey's emotionally resonant performance. The film's cosmic wonder and stunning visuals create an immersive experience that lingers long after viewing. However, some found the narrative occasionally incongruous and felt Nolan's sentimentalism overreached. Despite minor criticisms about pacing and accessibility, most consider it a deeply moving, intellectually ambitious journey that redefines the space exploration genre.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/9d/91/36/9d91365d2c9608fe751e67b42ddc9898.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Green Book",
+            "description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+            "category": [
+                "Drama",
+                "Comedy",
+                "Music"
+            ],
+            "Director": "Peter Farrelly",
+            "Writers": [
+                "Peter Farrelly",
+                "Nick Vallelonga",
+                "Brian Hayes Currie"
+            ],
+            "Stars": [
+                "Viggo Mortensen",
+                "Mahershala Ali",
+                "Linda Cardellini"
+            ],
+            "Time": 2.1,
+            "Year": 2018,
+            "Rate": 8.2,
+            "Summary": "Reviewers say 'Green Book' succeeds brilliantly through its exceptional lead performances by Viggo Mortensen and Mahershala Ali, whose natural chemistry and evolving friendship create genuine emotional resonance. The heartfelt, uplifting story effectively addresses 1960s racism while maintaining warmth and humor. However, some found the social commentary heavy-handed and simplistic, with occasional cliched writing that reduces complex issues to stereotypes. Despite these criticisms, most viewers found it thoroughly engaging and left theaters feeling moved and joyful.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/de/e5/27/dee5273da925e88f4b5af01feb90b8b0.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Obsession",
+            "description": "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+            "category": [
+                "Psychological Thriller",
+                "Horror",
+                "Psychological Horror"
+            ],
+            "Director": "Curry Barker",
+            "Writers": [
+                "Curry Barker"
+            ],
+            "Stars": [
+                "Michael Johnston",
+                "Inde Navarrette",
+                "Cooper Tomlinson"
+            ],
+            "Time": 1.49,
+            "Year": 2025,
+            "Rate": 7.8,
+            "Summary": "Reviewers say 'Obsession' delivers exceptional atmosphere and standout performances, particularly Inde Navarrette's magnetic portrayal of Nikki, supported by Curry Barker's confident directorial debut that builds genuine psychological dread. However, the film divides audiences with its slow, tedious pacing and polarizing script that some find smart while others criticize as surface-level. Character development receives mixed reactions, with some praising moral ambiguity while others find protagonists poorly written and annoying, making this a divisive horror experience.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/21/d0/28/21d028f011d3003887d754b4edd44cfe.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Big Hero 6",
+            "description": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+            "category": [
+                "Action",
+                "Adventure",
+                "Superhero",
+                "Animation",
+                "Artificial Intelligence",
+                "Comedy",
+                "Drama",
+                "Crime",
+                "Marvel"
+            ],
+            "Director": "Chris Williams",
+            "Writers": [
+                "Jordan Roberts",
+                "Robert L. Baird",
+                "Daniel Gerson"
+            ],
+            "Stars": [
+                "Ryan Potter",
+                "Scott Adsit",
+                "Jamie Chung"
+            ],
+            "Time": 1.42,
+            "Year": 2014,
+            "Rate": 7.8,
+            "Summary": "Reviewers say 'Big Hero 6' delivers stunning animation with vivid colors and meticulous detail, while Baymax emerges as an irresistibly adorable character who provides consistent laugh-out-loud humor. The film successfully entertains all ages with impressive action sequences and surprising emotional depth. However, the writing proves predictable and overly simplified for some, while supporting characters remain underdeveloped despite the protagonist's effective growth. The villain particularly disappoints with rushed development, though families will find genuine enjoyment in this visually gorgeous experience.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/3a/f6/0e/3af60ee7e49080cfc30f33a714e0baf7.jpg"
+        },
+        {
+            "id": 5,
+            "title": "I Want to Eat Your Pancreas",
+            "description": "A high school student discovers one of his classmates, Sakura Yamauchi, is suffering from a terminal illness. This secret brings the two together, as she lives out her final moments.",
+            "category": [
+                "Japanese",
+                "Adventure",
+                "Anime",
+                "Animation",
+                "Slice of Life",
+                "Drama",
+                "Romance",
+                "Psychological Drama"
+            ],
+            "Director": "Shin'ichirô Ushijima",
+            "Writers": [
+                "Yoru Sumino",
+                "Shin'ichirô Ushijima"
+            ],
+            "Stars": [
+                "Mahiro Takasugi",
+                "Lynn",
+                "Yukiyo Fujii"
+            ],
+            "Time": 1.49,
+            "Year": 2018,
+            "Rate": 8.1,
+            "Summary": "Reviewers say 'I Want to Eat Your Pancreas' delivers an intensely emotional experience that lingers long after viewing, with many reporting uncontrollable tears and describing it as profoundly heartfelt and thought-provoking. The film's emotional authenticity and life-changing themes about living and love receive widespread praise. However, opinions divide sharply on engagement, with some finding it captivating while others struggled with boredom. Character complexity and development also spark mixed reactions, with criticisms of stereotypical, flat portrayals despite some praising their depth.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/c0/ee/bb/c0eebb823024318d2f81014badf29a10.jpg"
+        },
+        {
+            "id": 6,
+            "title": "All the Bright Places",
+            "description": "The story of Violet and Theodore, who meet and change each other's lives forever. As they struggle with the emotional and physical scars of their past, they discover that even the smallest places and moments can mean something.",
+            "category": [
+                "Drama",
+                "Romance",
+                "Teen Drama"
+            ],
+            "Director": "Brett Haley",
+            "Writers": [
+                "Jennifer Niven",
+                "Liz Hannah"
+            ],
+            "Stars": [
+                "Elle Fanning",
+                "Justice Smith",
+                "Alexandra Shipp"
+            ],
+            "Time": 1.47,
+            "Year": 2020,
+            "Rate": 6.6,
+            "Summary": "Reviewers say 'All the Bright Places' delivers thought-provoking messages about mental health through heartfelt emotion and captivating performances from Elle Fanning and Justice Smith. The film powerfully explores depression and suicidal tendencies, leaving audiences deeply moved. However, many criticize the pacing as either too slow or rushed, while book readers express disappointment with missing details from the source material. Engagement proves divisive, with some finding it involving while others struggled with boredom, making it a polarizing yet emotionally resonant experience.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/85/17/51/851751ea0394e5ae53d8c10a2704c903.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Up",
+            "description": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
+            "category": [
+                "Drama",
+                "Adventure",
+                "Psychological Drama",
+                "Comedy"
+            ],
+            "Director": "Pete Docter",
+            "Writers": [
+                "Pete Docter",
+                "Bob Peterson",
+                "Tom McCarthy"
+            ],
+            "Stars": [
+                "Edward Asner",
+                "Jordan Nagai",
+                "John Ratzenberger"
+            ],
+            "Time": 1.36,
+            "Year": 2009,
+            "Rate": 8.3,
+            "Summary": "Reviewers say 'Up' delivers extraordinary emotional depth through its heartfelt storytelling and stunning animation, with the wordless opening montage moving audiences to tears. The complex characters and thought-provoking themes about dreams and letting go resonate powerfully, particularly with older viewers. However, opinions divide on the writing quality after the initial premise, with some finding the plot loses momentum. While most praise its universal appeal, others suggest the mature themes make it more suitable for adults than children.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/15/87/58/15875848640e96ac72918eb69e37e2a7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Shutter Island",
+            "description": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+            "category": [
+                "Mystery",
+                "Psychological Thriller"
+            ],
+            "Director": "Martin Scorsese",
+            "Writers": [
+                "Laeta Kalogridis",
+                "Dennis Lehane"
+            ],
+            "Stars": [
+                "Leonardo DiCaprio",
+                "Emily Mortimer",
+                "Mark Ruffalo"
+            ],
+            "Time": 2.18,
+            "Year": 2010,
+            "Rate": 8.2,
+            "Summary": "Reviewers say 'Shutter Island' delivers a masterfully suspenseful psychological thriller that captivates with its mysterious atmosphere, stunning cinematography, and thought-provoking narrative. DiCaprio's performance and the shocking plot twist earn widespread acclaim, while the film's intellectual depth rewards multiple viewings. However, some found the second half's pacing sluggish and Scorsese's direction overly intricate. A few felt the conclusion was too explanatory or melodramatic. Despite mixed reactions to its complexity, most consider it a gripping, edge-of-seat experience.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/ec/5a/59/ec5a592516779c75d3404b539b6a35d4.jpg"
+        },
+        {
+            "id": 9,
+            "title": "The Wolf of Wall Street",
+            "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+            "category": [
+                "Comedy",
+                "Dark Comedy",
+                "Docudrama",
+                "Biography",
+                "Epic"
+            ],
+            "Director": "Martin Scorsese",
+            "Writers": [
+                "Terence Winter",
+                "Jordan Belfort"
+            ],
+            "Stars": [
+                "Leonardo DiCaprio",
+                "Jonah Hill",
+                "Margot Robbie"
+            ],
+            "Time": 3,
+            "Year": 2013,
+            "Rate": 8.2,
+            "Summary": "Reviewers say 'The Wolf of Wall Street' showcases exceptional performances, particularly DiCaprio's career-best work, paired with Scorsese's masterful direction and compelling character development. However, the film sharply divides audiences over its three-hour runtime, with some finding it exhaustingly repetitive while others praise its energetic pacing. The excessive depiction of debauchery and ambiguous moral stance prove polarizing, leaving viewers debating whether it glorifies or condemns the greed and corruption it portrays with such visceral intensity.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/df/44/71/df44710b463aba29f59165e00ede56b3.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Titanic",
+            "description": "A young aristocrat falls in love with a poor artist aboard the luxurious, ill-fated RMS Titanic.",
+            "category": [
+                "Epic",
+                "Dark Comedy",
+                "Psychological Drama",
+                "Romantic Epic",
+                "Tragic Romance",
+                "Drama",
+                "Romance",
+                "Costume Drama"
+            ],
+            "Director": "James Cameron",
+            "Writers": [
+                "James Cameron"
+            ],
+            "Stars": [
+                "Leonardo DiCaprio",
+                "Kate Winslet",
+                "Billy Zane"
+            ],
+            "Time": 3.14,
+            "Year": 1997,
+            "Rate": 8.0,
+            "Summary": "Reviewers say 'Titanic' remains a timeless cinematic triumph, praised for its breathtaking visual spectacle, powerful emotional impact, and remarkable technical achievement that continues resonating decades later. The film's engaging storytelling and cultural legacy earned widespread acclaim. However, opinions divided on character development, with some finding protagonists simplistic or poorly conceived. The central romance, while moving many to tears, struck others as overly melodramatic and contrived. Historical accuracy received mixed reactions, with some praising meticulous period detail while others criticized misleading social portrayals.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/2c/f1/96/2cf19659deec6795901416b96cd9a6e1.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Catch Me If You Can",
+            "description": "A runaway teenager lives an exciting life by forging checks and impersonating several professions, but his fraudulent activities soon attract the attention of the FBI.",
+            "category": [
+                "Docudrama",
+                "True Crime",
+                "Biography",
+                "Caper",
+                "Drama",
+                "Crime"
+            ],
+            "Director": "Steven Spielberg",
+            "Writers": [
+                "Frank Abagnale Jr.",
+                "Stan Redding",
+                "Jeff Nathanson"
+            ],
+            "Stars": [
+                "Leonardo DiCaprio",
+                "Tom Hanks",
+                "Christopher Walken"
+            ],
+            "Time": 2.21,
+            "Year": 2002,
+            "Rate": 8.1,
+            "Summary": "Reviewers say 'Catch Me If You Can' delivers exceptional entertainment through DiCaprio's magnetic performance and Walken's scene-stealing supporting turn, guided by Spielberg's masterful direction. The film balances thrilling cat-and-mouse storytelling with emotional depth, exploring family dysfunction and father-son relationships. While most praise the engaging screenplay and brisk pacing, some find the runtime excessive and question the story's authenticity. Despite minor criticisms about Hollywood embellishments, reviewers celebrate this stylish, emotionally resonant crowd-pleaser.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/65/df/cf/65dfcf105661b4ee7e596a912fc1eeaa.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Inception",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+            "category": [
+                "Action Epic",
+                "Epic",
+                "Adventure Epic",
+                "Psychological Thriller",
+                "Thriller",
+                "Adventure"
+            ],
+            "Director": "Christopher Nolan",
+            "Writers": [
+                "Christopher Nolan"
+            ],
+            "Stars": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Elliot Page"
+            ],
+            "Time": 2.28,
+            "Year": 2010,
+            "Rate": 8.8,
+            "Summary": "Reviewers say 'Inception' is a groundbreaking original masterpiece that challenges audiences intellectually with its mind-bending premise and multi-layered narrative. DiCaprio and the ensemble cast deliver exceptional performances under Nolan's visionary direction. The film's complexity demands constant attention and rewards multiple viewings with stunning visuals and innovative action. While most found it intensely captivating, a few critics felt the writing was unclear and action occasionally repetitive. The film sparks extensive post-viewing discussion and contemplation.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/de/69/7b/de697b21e82689794973ce7e1a509f37.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Forrest Gump",
+            "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+            "category": [
+                "Drama",
+                "Adventure",
+                "Epic",
+                "Romance",
+                "Tragic Romance",
+                "Romance Epic"
+            ],
+            "Director": "Robert Zemeckis",
+            "Writers": [
+                "Winston Groom",
+                "Eric Roth"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Robin Wright",
+                "Gary Sinise"
+            ],
+            "Time": 2.22,
+            "Year": 1994,
+            "Rate": 8.8,
+            "Summary": "Reviewers say 'Forrest Gump' stands as a timeless masterpiece featuring Tom Hanks' Oscar-winning performance and exceptional rewatchability that resonates decades later. The film captivates with its thought-provoking themes, heartfelt emotion, and inspirational messages about life's unpredictability. While most praise the storytelling and character depth, some find the writing overly simplistic and certain character arcs lacking compelling development. Despite minor criticisms, the overwhelming consensus celebrates it as profoundly moving cinema.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/4f/1a/ba/4f1abaaf576a28478a2e4745ca0cafe3.jpg"
+        },
+        {
+            "id": 14,
+            "title": "The Runner",
+            "description": "A high-powered attorney must race through London to save her abducted son while following cryptic commands from a mysterious caller.",
+            "category": [
+                "Action",
+                "Thriller",
+                "Psychological Thriller"
+            ],
+            "Director": "Kevin Macdonald",
+            "Writers": [
+                "Mark Gibson"
+            ],
+            "Stars": [
+                "Gal Gadot",
+                "Damian Lewis",
+                "Rory Wilmot"
+            ],
+            "Time": 1.24,
+            "Year": 2026,
+            "Rate": 4.2,
+            "Summary": "Reviewers say 'The Runner' divides audiences sharply. Some praise its unpredictable plot twists, continuous action sequences, and suspenseful moments that kept them engaged throughout. However, most criticize the film as derivative and unoriginal, with implausible storylines, severely lacking writing, artificial dialogue, and Gal Gadot's wooden performance. The pacing and engagement level remain polarizing, with some finding it briskly entertaining while others consider it tedious. Better alternatives exist in the genre.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/c7/be/6f/c7be6f994d8adbc9b097ff95123554a6.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Parasite",
+            "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "category": [
+                "Korean",
+                "Dark Comedy",
+                "Psychological Drama",
+                "Psychological Thriller",
+                "Thriller",
+                "Drama"
+            ],
+            "Director": "Bong Joon Ho",
+            "Writers": [
+                "Bong Joon Ho",
+                "Han Jin-won"
+            ],
+            "Stars": [
+                "Song Kang-ho",
+                "Lee Sun-kyun",
+                "Cho Yeo-jeong"
+            ],
+            "Time": 2.12,
+            "Year": 2019,
+            "Rate": 8.5,
+            "Summary": "Reviewers say 'Parasite' delivers masterful direction from Bong Joon-ho with breath-taking cinematography and exceptional performances across the entire cast. The film's sharp social commentary on class disparity and unpredictable plot twists captivate most viewers. However, some found the pacing uneven with a dragging first hour, while others felt the genre blending made it unfocused. A few criticized the writing as overly simplistic despite widespread praise for its intelligent construction, making it somewhat divisive despite overwhelming acclaim.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/db/db/cb/dbdbcb96b0f27053a1b9cbdd187cfba2.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Gladiator",
+            "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "category": [
+                "Epic",
+                "Action",
+                "Action Epic",
+                "Drama",
+                "Adventure"
+            ],
+            "Director": "Ridley Scott",
+            "Writers": [
+                "David Franzoni",
+                "John Logan",
+                "William Nicholson"
+            ],
+            "Stars": [
+                "Russell Crowe",
+                "Joaquin Phoenix",
+                "Connie Nielsen"
+            ],
+            "Time": 2.35,
+            "Year": 2000,
+            "Rate": 8.5,
+            "Summary": "Reviewers say 'Gladiator' is a timeless masterpiece that triumphantly revived the historical epic genre. They praise the stunning cinematography, Hans Zimmer's magnificent score, and Russell Crowe's Oscar-winning performance alongside Joaquin Phoenix's compelling villain. The film captivates with thrilling action sequences and epic scale. While some found the script occasionally clichéd and wished for more arena battles, the overwhelming consensus celebrates it as endlessly rewatchable, visually breathtaking entertainment that remains powerful decades later.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/19/01/58/1901580e6da18051db24faa8e1cc9e10.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Seven",
+            "description": "Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.",
+            "category": [
+                "Cop Drama",
+                "Psychological Drama",
+                "Psychological Thriller",
+                "Drama",
+                "Mystery",
+                "Serial Killer",
+                "Tragedy",
+                "Crime"
+            ],
+            "Director": "David Fincher",
+            "Writers": [
+                "Andrew Kevin Walker"
+            ],
+            "Stars": [
+                "Morgan Freeman",
+                "Brad Pitt",
+                "Kevin Spacey"
+            ],
+            "Time": 2.07,
+            "Year": 1995,
+            "Rate": 8.6,
+            "Summary": "Reviewers say 'Seven' stands as a masterpiece of psychological thriller cinema, with Fincher's visionary direction creating relentlessly suspenseful storytelling that builds unbearable tension. The outstanding performances from Freeman, Pitt, and Spacey elevate Walker's intelligent screenplay, while the moody atmosphere and perpetual darkness immerse viewers in a nightmarish world. The iconic, shocking ending cements its status as unforgettable cinema. Though unrelentingly grim, the film's thought-provoking exploration of morality and human depravity has earned it enduring legacy as a genre-defining classic.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/b6/c4/bb/b6c4bbc2b3590f9fb36f2582cb7f4dcf.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Lucy",
+            "description": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her captors.",
+            "category": [
+                "Artificial Intelligence",
+                "Cyberpunk",
+                "Psychological Thriller",
+                "Action",
+                "Thriller"
+            ],
+            "Director": "Luc Besson",
+            "Writers": [
+                "Luc Besson"
+            ],
+            "Stars": [
+                "Scarlett Johansson",
+                "Morgan Freeman",
+                "Choi Min-sik"
+            ],
+            "Time": 1.29,
+            "Year": 2014,
+            "Rate": 6.4,
+            "Summary": "Reviewers say 'Lucy' captivates with thought-provoking philosophical elements and stellar action sequences, featuring Scarlett Johansson's powerhouse performance under Luc Besson's visionary direction. The fast-paced thriller entertains while exploring consciousness and human potential. However, the film's implausible premise based on the debunked 10% brain myth divides audiences, with many finding it scientifically problematic despite accepting it as speculative fiction. The writing receives mixed reactions, though most agree the 90-minute runtime keeps engagement high throughout.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/e6/8c/0d/e68c0d422b588c14919ecfccb038a29a.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Oppenheimer",
+            "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+            "category": [
+                "Docudrama",
+                "Historical Epic",
+                "Psychological Drama",
+                "Drama",
+                "Biography",
+                "History",
+                "Epic"
+            ],
+            "Director": "Christopher Nolan",
+            "Writers": [
+                "Christopher Nolan",
+                "Kai Bird",
+                "Martin Sherwin"
+            ],
+            "Stars": [
+                "Cillian Murphy",
+                "Emily Blunt",
+                "Matt Damon"
+            ],
+            "Time": 3,
+            "Year": 2023,
+            "Rate": 8.2,
+            "Summary": "Reviewers say 'Oppenheimer' delivers exceptional performances, particularly Cillian Murphy's career-defining portrayal, alongside stunning cinematography and intellectually stimulating themes that challenge audiences to reflect on scientific advancement and moral consequences. However, the three-hour runtime proves divisive, with many finding it exhausting and suggesting significant trimming. The non-linear structure confuses some viewers, while the overwhelmingly loud musical score often drowns out dialogue. Despite these criticisms, most consider it a masterful achievement in biographical filmmaking.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/2b/6b/1e/2b6b1e6bc877a5a74f48b303bc971897.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Toy Story",
+            "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+            "category": [
+                "Toy Story",
+                "Artificial Intelligence",
+                "Animation",
+                "Family",
+                "Fantasy",
+                "Buddy Comedy",
+                "Adventure",
+                "Comedy"
+            ],
+            "Director": "John Lasseter",
+            "Writers": [
+                "John Lasseter",
+                "Andrew Stanton",
+                "Pete Docter"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Tim Allen",
+                "Don Rickles"
+            ],
+            "Time": 1.21,
+            "Year": 1995,
+            "Rate": 8.3,
+            "Summary": "Reviewers say 'Toy Story' remains a groundbreaking animated classic that appeals equally to children and adults with its clever writing, excellent voice performances from Tom Hanks and Tim Allen, and enduring charm. The film's revolutionary computer animation and universal themes create strong nostalgic resonance and exceptional rewatchability. While some note the animation has dated slightly with human characters and a few find certain middle sections less engaging, most praise how remarkably well it holds up after three decades as a landmark achievement.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/69/c7/1f/69c71ffdde521549ac19f1d6be0b336c.jpg"
+        },
+        {
+            "id": 21,
+            "title": "Toy Story 2",
+            "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+            "category": [
+                "Toy Story",
+                "Artificial Intelligence",
+                "Animation",
+                "Family",
+                "Fantasy",
+                "Adventure",
+                "Buddy Comedy",
+                "Comedy"
+            ],
+            "Director": "John Lasseter",
+            "Writers": [
+                "John Lasseter",
+                "Ash Brannon",
+                "Pete Docter"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Tim Allen",
+                "Joan Cusack"
+            ],
+            "Time": 1.32,
+            "Year": 1999,
+            "Rate": 7.9,
+            "Summary": "Reviewers say 'Toy Story 2' excels with universally engaging entertainment that captivates all ages, featuring complex characters with compelling backstories and emotional depth. The improved animation and stellar voice performances, particularly Joan Cusack's addition, elevate the experience. While most praise the writing as more complex than the original, some felt it lacked direction or relied on forced action. A few noted the bigger scale undermined the original's low-key charm, though the film remains highly rewatchable and emotionally resonant.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/a4/18/01/a418012d817ede1fe53199adf7d07f40.jpg"
+        },
+        {
+            "id": 22,
+            "title": "Toy Story 3",
+            "description": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+            "category": [
+                "Toy Story",
+                "Comedy",
+                "Animation",
+                "Family",
+                "Buddy Comedy",
+                "Artificial Intelligence",
+                "Fantasy",
+                "Adventure"
+            ],
+            "Director": "Lee Unkrich",
+            "Writers": [
+                "John Lasseter",
+                "Andrew Stanton",
+                "Lee Unkrich"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Tim Allen",
+                "Joan Cusack"
+            ],
+            "Time": 1.43,
+            "Year": 2010,
+            "Rate": 8.3,
+            "Summary": "Reviewers say 'Toy Story 3' delivers a profoundly emotional and visually stunning conclusion to the beloved trilogy. The film's heartfelt emotion, tear-inducing finale, and groundbreaking animation earned universal praise, with many calling it a technical masterpiece worthy of Best Picture consideration. The humor balances perfectly with devastating emotional moments that resonated deeply with audiences. While some felt the writing rehashed previous ideas and certain characters lacked depth, most found it an engaging, nostalgic experience that exceeded expectations and provided a satisfying, cathartic ending.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/78/d1/98/78d198f4ae64bdb34a4c3fe1617bc333.jpg"
+        },
+        {
+            "id": 23,
+            "title": "Toy Story 4",
+            "description": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+            "category": [
+                "Toy Story",
+                "Artificial Intelligence",
+                "Animation",
+                "Family",
+                "Fantasy",
+                "Buddy Comedy",
+                "Adventure",
+                "Road Trip",
+                "Comedy"
+            ],
+            "Director": "Josh Cooley",
+            "Writers": [
+                "John Lasseter",
+                "Andrew Stanton",
+                "Josh Cooley"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Tim Allen",
+                "Annie Potts"
+            ],
+            "Time": 1.4,
+            "Year": 2019,
+            "Rate": 7.6,
+            "Summary": "Reviewers say 'Toy Story 4' showcases stunning animation that ranks among Pixar's finest achievements, with excellent voice performances particularly from Tony Hale and Keanu Reeves. However, many felt the film was an unnecessary addition after Toy Story 3's perfect conclusion, criticizing weaker writing that contradicts earlier themes and an unsatisfying ending. New characters like Gabby Gabby impressed, but beloved returning characters received minimal attention. The film's emotional impact and engagement proved divisive, leaving audiences split on whether it justified its existence.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/b5/86/f7/b586f7b9668b6594dfcb2a5311fba39b.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Toy Story 5",
+            "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+            "category": [
+                "Toy Story",
+                "Artificial Intelligence",
+                "Animation",
+                "Family",
+                "Buddy Comedy",
+                "Fantasy",
+                "Adventure",
+                "Road Trip",
+                "Comedy"
+            ],
+            "Director": "McKenna Harris",
+            "Writers": [
+                "Andrew Stanton",
+                "McKenna Harris"
+            ],
+            "Stars": [
+                "Tom Hanks",
+                "Tim Allen",
+                "Joan Cusack"
+            ],
+            "Time": 1.42,
+            "Year": 2026,
+            "Rate": 7.3,
+            "Summary": "Reviewers say 'Toy Story 5' delivers breathtaking animation and heartfelt moments with timely commentary on technology and childhood. Jessie's expanded role earns praise, though Woody's diminished presence disappoints longtime fans. While the film captures warmth and humor, many criticize it as an unnecessary cash-grab with mediocre writing that recycles familiar themes. The emotional impact proves divisive—some find genuine resonance, others feel it lacks the franchise's signature punch. Opinions remain sharply split on whether this installment justifies its existence.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/cc/90/28/cc90286e86acbeb21310642c7407c75c.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Inside Out",
+            "description": "After a young girl is uprooted from her Midwest life and moved to San Francisco, her emotions conflict on how best to navigate her new reality.",
+            "category": [
+                "Artificial Intelligence",
+                "Psychological Drama",
+                "Adventure",
+                "Animation",
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Drama"
+            ],
+            "Director": "Ronnie Del Carmen",
+            "Writers": [
+                "Pete Docter",
+                "Ronnie Del Carmen",
+                "Meg LeFauve"
+            ],
+            "Stars": [
+                "Amy Poehler",
+                "Bill Hader",
+                "Lewis Black"
+            ],
+            "Time": 1.35,
+            "Year": 2015,
+            "Rate": 8.1,
+            "Summary": "Reviewers say 'Inside Out' delivers stunning animation and one of Pixar's most emotionally powerful experiences, with thought-provoking insights into human psychology that resonate deeply across audiences. The film's imaginative concept and coming-of-age themes earned widespread praise. However, some felt younger children might struggle with complex concepts, while character depth received mixed reactions, with a few finding them predictable despite Joy's standout performance. Overall, it's considered a daring, inventive achievement that balances entertainment with genuine emotional intelligence.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/bc/f4/41/bcf44173f1eaf7e977b2747f455a189c.jpg"
+        },
+        {
+            "id": 26,
+            "title": "Inside Out 2",
+            "description": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
+            "category": [
+                "Artificial Intelligence",
+                "Psychological Drama",
+                "Adventure",
+                "Animation",
+                "Comedy",
+                "Family",
+                "Fantasy",
+                "Drama"
+            ],
+            "Director": "Kelsey Mann",
+            "Writers": [
+                "Meg LeFauve",
+                "Dave Holstein",
+                "Kelsey Mann"
+            ],
+            "Stars": [
+                "Amy Poehler",
+                "Maya Hawke",
+                "Kensington Tallman"
+            ],
+            "Time": 1.36,
+            "Year": 2024,
+            "Rate": 7.5,
+            "Summary": "Reviewers say 'Inside Out 2' delivers visually stunning animation and powerfully resonates across all ages with its authentic portrayal of teenage struggles, puberty, and self-discovery. The coming-of-age themes and relatable depiction of anxiety particularly struck a chord with audiences. However, the film disappoints with rushed pacing that undermines emotional development, divisive writing that some found repetitive, and inconsistent character development where only Anxiety receives meaningful attention while other new emotions feel underutilized.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/ce/7d/26/ce7d2689e5e782802c88e075dc41a506.jpg"
+        },
+        {
+            "id": 27,
+            "title": "The Incredibles",
+            "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+            "category": [
+                "Action",
+                "Animation",
+                "Superhero",
+                "Adventure",
+                "Family",
+                "Comedy",
+                "Action Epic"
+            ],
+            "Director": "Brad Bird",
+            "Writers": [
+                "Brad Bird"
+            ],
+            "Stars": [
+                "Craig T. Nelson",
+                "Samuel L. Jackson",
+                "Holly Hunter"
+            ],
+            "Time": 1.55,
+            "Year": 2004,
+            "Rate": 8.0,
+            "Summary": "Reviewers say 'The Incredibles' delivers stunning animation and exceptional voice acting, particularly from Craig T. Nelson and Holly Hunter, creating an endlessly rewatchable family film. The intelligent writing balances superhero action with authentic family dynamics that resonate across all ages. While some found the concept formulaic and felt certain action sequences were excessive, most praised the thrilling set-pieces and well-developed characters. The film successfully entertains both children and adults with its sophisticated humor and universal themes.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/4e/a4/52/4ea452788404ee75184ab838bb275adb.jpg"
+        },
+        {
+            "id": 28,
+            "title": "The Incredibles 2",
+            "description": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+            "category": [
+                "Action",
+                "Animation",
+                "Superhero",
+                "Adventure",
+                "Family",
+                "Comedy",
+                "Thriller",
+                "Spy"
+            ],
+            "Director": "Brad Bird",
+            "Writers": [
+                "Brad Bird"
+            ],
+            "Stars": [
+                "Craig T. Nelson",
+                "Holly Hunter",
+                "Sarah Vowell"
+            ],
+            "Time": 1.58,
+            "Year": 2018,
+            "Rate": 7.5,
+            "Summary": "Reviewers say 'Incredibles 2' delivers spectacular action sequences and hilarious moments, particularly featuring Jack-Jack, with stunning animation that appeals to all ages. The film excels as family entertainment with its blend of adult and child humor. However, many found the plot predictable with an obvious villain reveal, and some criticized it as derivative of the original. The writing and character development received mixed reactions, while social commentary polarized audiences. Despite these shortcomings, most found it entertaining and engaging throughout.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/97/77/ff/9777ff27fe13cbab9d44fe4a9ff5a5df.jpg"
+        },
+        {
+            "id": 29,
+            "title": "WALL E",
+            "description": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
+            "category": [
+                "Adventure Epic",
+                "Artificial Intelligence",
+                "Epic",
+                "Psychological Drama",
+                "Animation",
+                "Adventure"
+            ],
+            "Director": "Andrew Stanton",
+            "Writers": [
+                "Andrew Stanton",
+                "Pete Docter",
+                "Jim Reardon"
+            ],
+            "Stars": [
+                "Ben Burtt",
+                "Elissa Knight",
+                "Jeff Garlin"
+            ],
+            "Time": 1.38,
+            "Year": 2008,
+            "Rate": 8.4,
+            "Summary": "Reviewers say 'WALL·E' delivers breathtaking animation and an enchanting romance between its robot characters that proves more touching than most live-action films. The heartfelt emotion and subtle social commentary about consumerism resonate deeply with audiences. However, engagement proved divisive, with some viewers finding the dialogue-free sequences boring or slow-paced, particularly younger children. While most praised the brilliant storytelling, others felt the narrative lacked substance. The film's appeal across age groups remains debated, though many consider it an endlessly rewatchable modern classic.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/6f/2d/13/6f2d133ca140a0053417916503dadd09.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Coco",
+            "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "category": [
+                "Adventure Epic",
+                "Adventure",
+                "Dark Comedy",
+                "Fantasy",
+                "Psychological Drama",
+                "Animation",
+                "Drama",
+                "Comedy",
+                "Epic"
+            ],
+            "Director": "Adrian Molina",
+            "Writers": [
+                "Lee Unkrich",
+                "Jason Katz",
+                "Matthew Aldrich"
+            ],
+            "Stars": [
+                "Anthony Gonzalez",
+                "Gael García Bernal",
+                "Benjamin Bratt"
+            ],
+            "Time": 1.45,
+            "Year": 2017,
+            "Rate": 8.4,
+            "Summary": "Reviewers praise Coco as a masterpiece of animated storytelling, with Pixar's stunning visuals and vibrant world bringing Mexican culture and traditions to life. The heartfelt performances and emotionally rich screenplay create a touching journey filled with humor, adventure, and unforgettable music. Its exploration of family, memory, and the importance of honoring one's ancestors gives the story remarkable depth, while songs like “Remember Me” capture its emotional core. The film's powerful climax delivers a deeply moving message about love, loss, and remembrance, cementing its status as one of Pixar's most beloved classics.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/60/75/48/607548a9e4e24f3dadee160fd08dedc3.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Ratatouille",
+            "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+            "category": [
+                "Adventure",
+                "Animation",
+                "Family",
+                "Fantasy",
+                "Comedy"
+            ],
+            "Director": "Brad Bird",
+            "Writers": [
+                "Brad Bird",
+                "Jan Pinkava",
+                "Jim Capobianco"
+            ],
+            "Stars": [
+                "Brad Garrett",
+                "Lou Romano",
+                "Patton Oswalt"
+            ],
+            "Time": 1.51,
+            "Year": 2007,
+            "Rate": 8.1,
+            "Summary": "Reviewers say 'Ratatouille' showcases Pixar's technical mastery with breathtaking animation and Brad Bird's exceptional direction creating a visually stunning achievement. The sophisticated storytelling, charming characters, and excellent voice performances particularly from Patton Oswalt and Peter O'Toole appeal strongly to adults and older children. However, some found the film predictable and boring, with characters lacking the quirkiness of previous Pixar films. A few noted younger children might lose interest during slower sections, though most praised its universal appeal and intelligent humor.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/ec/46/ec/ec46ec66a7ced5058e2f823c2fc2e6e0.jpg"
+        },
+        {
+            "id": 32,
+            "title": "How to Train Your Dragon",
+            "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+            "category": [
+                "Adventure",
+                "Epic",
+                "Fantasy",
+                "Action",
+                "Action Epic",
+                "Animation"
+            ],
+            "Director": "Dean DeBlois",
+            "Writers": [
+                "William Davies",
+                "Dean DeBlois",
+                "Chris Sanders"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Gerard Butler",
+                "Christopher Mintz-Plasse"
+            ],
+            "Time": 1.38,
+            "Year": 2010,
+            "Rate": 8.1,
+            "Summary": "Reviewers say 'How to Train Your Dragon' is a stunning achievement that captivates audiences of all ages with breathtaking animation, spectacular flying sequences, and heartfelt storytelling. The film's visual craftsmanship and emotional depth particularly impressed viewers, while the charming relationship between Hiccup and Toothless resonated strongly. Some found the pacing occasionally uneven and voice performances inconsistent with accents, but the overwhelming consensus celebrates this as one of Dreamworks' finest films—genuinely entertaining for both children and adults alike.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/08/4a/ca/084aca73452cb26a5da4b765997cb7b6.jpg"
+        },
+        {
+            "id": 33,
+            "title": "How to Train Your Dragon 2",
+            "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+            "category": [
+                "Adventure",
+                "Adventure Epic",
+                "Epic",
+                "Fantasy",
+                "Action",
+                "Action Epic",
+                "Animation"
+            ],
+            "Director": "Dean DeBlois",
+            "Writers": [
+                "Dean DeBlois",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "Cate Blanchett",
+                "Gerard Butler"
+            ],
+            "Time": 1.42,
+            "Year": 2014,
+            "Rate": 7.8,
+            "Summary": "Reviewers say 'How to Train Your Dragon 2' delivers stunning animation and breathtaking visual spectacle that appeals to all ages, with strong emotional depth and character development that surpasses typical animated sequels. However, the film suffers from messy pacing that stalls in the middle section, and some found the writing convoluted compared to the original. While most praised the emotional resonance and maturity, a few felt certain elements lacked the cohesiveness of its predecessor.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/96/d4/32/96d432654ba03a6bd709e088f01d5aa2.jpg"
+        },
+        {
+            "id": 34,
+            "title": "How to Train Your Dragon: The Hidden World",
+            "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "category": [
+                "Adventure",
+                "Epic",
+                "Fantasy",
+                "Action",
+                "Comedy",
+                "Animation"
+            ],
+            "Director": "Dean DeBlois",
+            "Writers": [
+                "William Davies",
+                "Cressida Cowell"
+            ],
+            "Stars": [
+                "Jay Baruchel",
+                "America Ferrera",
+                "F. Murray Abraham"
+            ],
+            "Time": 1.44,
+            "Year": 2019,
+            "Rate": 7.4,
+            "Summary": "Reviewers say 'How to Train Your Dragon: The Hidden World' delivers absolutely stunning animation and breathtaking visual spectacle, culminating in a beautiful, tear-jerking finale that perfectly concludes the trilogy. However, the film divides audiences with its pacing and engagement, as some found it thrilling while others struggled to maintain attention. The writing and villain development disappointed many, with criticism of the one-dimensional antagonist and lack of depth compared to previous installments, though emotional moments resonated powerfully.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/1200x/ac/e1/c3/ace1c358f8716bccad0d80e157c8b369.jpg"
+        },
+        {
+            "id": 35,
+            "title": "6 Days",
+            "description": "High school sweethearts reunite years later, forcing them to confront the profound question: can their love withstand the test of time?.",
+            "category": [
+                "Arabic",
+                "Drama",
+                "Romance"
+            ],
+            "Director": "Karim Shaaban",
+            "Writers": [
+                "Wael Hamdy"
+            ],
+            "Stars": [
+                "Malek Emad",
+                "Ahmed Malek",
+                "Ebram Saeed"
+            ],
+            "Time": 1.45,
+            "Year": 2025,
+            "Rate": 7.7,
+            "Summary": "Youssef and Alia reunite after years of forced separation, torn apart by circumstances beyond their control. Now, fate intertwines their paths once more, bringing them together after each has walked a different journey in life.",
+            "Type": "Movie",
+            "Images": "https://i.pinimg.com/736x/b1/20/e5/b120e5fe4babbdf74eb949f70508afe3.jpg"
+        },
+        {
+            "id": 36,
+            "title": "The Guest",
+            "description": "The Guest tells the story of a young man who visits a family during dinner, and then the events develop in a direction that no one expects.",
+            "category": [
+                "Arabic",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Hadi El Bagoury",
+            "Writers": [
+                "Ibrahim Issa"
+            ],
+            "Stars": [
+                "Khaled El-Sawi",
+                "Ahmed Malek",
+                "Jamila Awad"
+            ],
+            "Time": 1.32,
+            "Year": 2018,
+            "Rate": 6.5,
+            "Summary": "A young man is invited for dinner with the family of Dr. Yehia Hussein Al-Tijani at the invitation of Yehia's lovestruck daughter. But Yehia is under a lot of pressure ever since his bold opinions put a target on his back, which turns the dinner into a stirring debate between Yehia and his guest.",
+            "Type": "Movie",
+            "Images": "https://media.filfan.com/NewsPics/FilfanNew/large/240141_0.jpg"
+        }
+    ],
+    "Total": 36
+}

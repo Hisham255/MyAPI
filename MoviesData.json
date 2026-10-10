@@ -1,10 +1,10 @@
 {
     "Movies": [
         {
-            "id": 1,
-            "title": "Interstellar",
-            "description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
-            "category": [
+            "Id": 1,
+            "Title": "Interstellar",
+            "Description": "In a dystopian future where Earth has become near-uninhabitable, a team of astronauts embark on a mission to find a new home for humanity.",
+            "Category": [
                 "Time Travel",
                 "Adventure",
                 "Sci-Fi"
@@ -27,10 +27,10 @@
             "Images": "https://i.pinimg.com/1200x/9d/91/36/9d91365d2c9608fe751e67b42ddc9898.jpg"
         },
         {
-            "id": 2,
-            "title": "Green Book",
-            "description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
-            "category": [
+            "Id": 2,
+            "Title": "Green Book",
+            "Description": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+            "Category": [
                 "Drama",
                 "Comedy",
                 "Music"
@@ -54,10 +54,10 @@
             "Images": "https://i.pinimg.com/1200x/de/e5/27/dee5273da925e88f4b5af01feb90b8b0.jpg"
         },
         {
-            "id": 3,
-            "title": "Obsession",
-            "description": "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-            "category": [
+            "Id": 3,
+            "Title": "Obsession",
+            "Description": "After breaking the mysterious 'One Wish Willow' to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+            "Category": [
                 "Psychological Thriller",
                 "Horror",
                 "Psychological Horror"
@@ -79,10 +79,10 @@
             "Images": "https://i.pinimg.com/1200x/21/d0/28/21d028f011d3003887d754b4edd44cfe.jpg"
         },
         {
-            "id": 4,
-            "title": "Big Hero 6",
-            "description": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
-            "category": [
+            "Id": 4,
+            "Title": "Big Hero 6",
+            "Description": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.",
+            "Category": [
                 "Action",
                 "Adventure",
                 "Superhero",
@@ -112,10 +112,10 @@
             "Images": "https://i.pinimg.com/1200x/3a/f6/0e/3af60ee7e49080cfc30f33a714e0baf7.jpg"
         },
         {
-            "id": 5,
-            "title": "I Want to Eat Your Pancreas",
-            "description": "A high school student discovers one of his classmates, Sakura Yamauchi, is suffering from a terminal illness. This secret brings the two together, as she lives out her final moments.",
-            "category": [
+            "Id": 5,
+            "Title": "I Want to Eat Your Pancreas",
+            "Description": "A high school student discovers one of his classmates, Sakura Yamauchi, is suffering from a terminal illness. This secret brings the two together, as she lives out her final moments.",
+            "Category": [
                 "Japanese",
                 "Adventure",
                 "Anime",
@@ -143,10 +143,10 @@
             "Images": "https://i.pinimg.com/1200x/c0/ee/bb/c0eebb823024318d2f81014badf29a10.jpg"
         },
         {
-            "id": 6,
-            "title": "All the Bright Places",
-            "description": "The story of Violet and Theodore, who meet and change each other's lives forever. As they struggle with the emotional and physical scars of their past, they discover that even the smallest places and moments can mean something.",
-            "category": [
+            "Id": 6,
+            "Title": "All the Bright Places",
+            "Description": "The story of Violet and Theodore, who meet and change each other's lives forever. As they struggle with the emotional and physical scars of their past, they discover that even the smallest places and moments can mean something.",
+            "Category": [
                 "Drama",
                 "Romance",
                 "Teen Drama"
@@ -169,10 +169,10 @@
             "Images": "https://i.pinimg.com/1200x/85/17/51/851751ea0394e5ae53d8c10a2704c903.jpg"
         },
         {
-            "id": 7,
-            "title": "Up",
-            "description": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
-            "category": [
+            "Id": 7,
+            "Title": "Up",
+            "Description": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
+            "Category": [
                 "Drama",
                 "Adventure",
                 "Psychological Drama",
@@ -197,10 +197,10 @@
             "Images": "https://i.pinimg.com/1200x/15/87/58/15875848640e96ac72918eb69e37e2a7.jpg"
         },
         {
-            "id": 8,
-            "title": "Shutter Island",
-            "description": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
-            "category": [
+            "Id": 8,
+            "Title": "Shutter Island",
+            "Description": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+            "Category": [
                 "Mystery",
                 "Psychological Thriller"
             ],
@@ -222,10 +222,10 @@
             "Images": "https://i.pinimg.com/736x/ec/5a/59/ec5a592516779c75d3404b539b6a35d4.jpg"
         },
         {
-            "id": 9,
-            "title": "The Wolf of Wall Street",
-            "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-            "category": [
+            "Id": 9,
+            "Title": "The Wolf of Wall Street",
+            "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+            "Category": [
                 "Comedy",
                 "Dark Comedy",
                 "Docudrama",
@@ -250,10 +250,10 @@
             "Images": "https://i.pinimg.com/1200x/df/44/71/df44710b463aba29f59165e00ede56b3.jpg"
         },
         {
-            "id": 10,
-            "title": "Titanic",
-            "description": "A young aristocrat falls in love with a poor artist aboard the luxurious, ill-fated RMS Titanic.",
-            "category": [
+            "Id": 10,
+            "Title": "Titanic",
+            "Description": "A young aristocrat falls in love with a poor artist aboard the luxurious, ill-fated RMS Titanic.",
+            "Category": [
                 "Epic",
                 "Dark Comedy",
                 "Psychological Drama",
@@ -280,10 +280,10 @@
             "Images": "https://i.pinimg.com/736x/2c/f1/96/2cf19659deec6795901416b96cd9a6e1.jpg"
         },
         {
-            "id": 11,
-            "title": "Catch Me If You Can",
-            "description": "A runaway teenager lives an exciting life by forging checks and impersonating several professions, but his fraudulent activities soon attract the attention of the FBI.",
-            "category": [
+            "Id": 11,
+            "Title": "Catch Me If You Can",
+            "Description": "A runaway teenager lives an exciting life by forging checks and impersonating several professions, but his fraudulent activities soon attract the attention of the FBI.",
+            "Category": [
                 "Docudrama",
                 "True Crime",
                 "Biography",
@@ -310,10 +310,10 @@
             "Images": "https://i.pinimg.com/1200x/65/df/cf/65dfcf105661b4ee7e596a912fc1eeaa.jpg"
         },
         {
-            "id": 12,
-            "title": "Inception",
-            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
-            "category": [
+            "Id": 12,
+            "Title": "Inception",
+            "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+            "Category": [
                 "Action Epic",
                 "Epic",
                 "Adventure Epic",
@@ -338,10 +338,10 @@
             "Images": "https://i.pinimg.com/736x/de/69/7b/de697b21e82689794973ce7e1a509f37.jpg"
         },
         {
-            "id": 13,
-            "title": "Forrest Gump",
-            "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
-            "category": [
+            "Id": 13,
+            "Title": "Forrest Gump",
+            "Description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+            "Category": [
                 "Drama",
                 "Adventure",
                 "Epic",
@@ -367,10 +367,10 @@
             "Images": "https://i.pinimg.com/736x/4f/1a/ba/4f1abaaf576a28478a2e4745ca0cafe3.jpg"
         },
         {
-            "id": 14,
-            "title": "The Runner",
-            "description": "A high-powered attorney must race through London to save her abducted son while following cryptic commands from a mysterious caller.",
-            "category": [
+            "Id": 14,
+            "Title": "The Runner",
+            "Description": "A high-powered attorney must race through London to save her abducted son while following cryptic commands from a mysterious caller.",
+            "Category": [
                 "Action",
                 "Thriller",
                 "Psychological Thriller"
@@ -392,10 +392,10 @@
             "Images": "https://i.pinimg.com/1200x/c7/be/6f/c7be6f994d8adbc9b097ff95123554a6.jpg"
         },
         {
-            "id": 15,
-            "title": "Parasite",
-            "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
-            "category": [
+            "Id": 15,
+            "Title": "Parasite",
+            "Description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "Category": [
                 "Korean",
                 "Dark Comedy",
                 "Psychological Drama",
@@ -421,10 +421,10 @@
             "Images": "https://i.pinimg.com/736x/db/db/cb/dbdbcb96b0f27053a1b9cbdd187cfba2.jpg"
         },
         {
-            "id": 16,
-            "title": "Gladiator",
-            "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-            "category": [
+            "Id": 16,
+            "Title": "Gladiator",
+            "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "Category": [
                 "Epic",
                 "Action",
                 "Action Epic",
@@ -450,10 +450,10 @@
             "Images": "https://i.pinimg.com/1200x/19/01/58/1901580e6da18051db24faa8e1cc9e10.jpg"
         },
         {
-            "id": 17,
-            "title": "Seven",
-            "description": "Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.",
-            "category": [
+            "Id": 17,
+            "Title": "Seven",
+            "Description": "Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.",
+            "Category": [
                 "Cop Drama",
                 "Psychological Drama",
                 "Psychological Thriller",
@@ -480,10 +480,10 @@
             "Images": "https://i.pinimg.com/736x/b6/c4/bb/b6c4bbc2b3590f9fb36f2582cb7f4dcf.jpg"
         },
         {
-            "id": 18,
-            "title": "Lucy",
-            "description": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her captors.",
-            "category": [
+            "Id": 18,
+            "Title": "Lucy",
+            "Description": "A woman who has become accidentally trapped in a dark deal with a mysterious and brutal criminal overlord transforms into a merciless warrior evolved beyond previously known human evolutionary limits and turns the tables on her captors.",
+            "Category": [
                 "Artificial Intelligence",
                 "Cyberpunk",
                 "Psychological Thriller",
@@ -507,10 +507,10 @@
             "Images": "https://i.pinimg.com/736x/e6/8c/0d/e68c0d422b588c14919ecfccb038a29a.jpg"
         },
         {
-            "id": 19,
-            "title": "Oppenheimer",
-            "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
-            "category": [
+            "Id": 19,
+            "Title": "Oppenheimer",
+            "Description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+            "Category": [
                 "Docudrama",
                 "Historical Epic",
                 "Psychological Drama",
@@ -538,10 +538,10 @@
             "Images": "https://i.pinimg.com/736x/2b/6b/1e/2b6b1e6bc877a5a74f48b303bc971897.jpg"
         },
         {
-            "id": 20,
-            "title": "Toy Story",
-            "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
-            "category": [
+            "Id": 20,
+            "Title": "Toy Story",
+            "Description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+            "Category": [
                 "Toy Story",
                 "Artificial Intelligence",
                 "Animation",
@@ -570,10 +570,10 @@
             "Images": "https://i.pinimg.com/1200x/69/c7/1f/69c71ffdde521549ac19f1d6be0b336c.jpg"
         },
         {
-            "id": 21,
-            "title": "Toy Story 2",
-            "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
-            "category": [
+            "Id": 21,
+            "Title": "Toy Story 2",
+            "Description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+            "Category": [
                 "Toy Story",
                 "Artificial Intelligence",
                 "Animation",
@@ -602,10 +602,10 @@
             "Images": "https://i.pinimg.com/1200x/a4/18/01/a418012d817ede1fe53199adf7d07f40.jpg"
         },
         {
-            "id": 22,
-            "title": "Toy Story 3",
-            "description": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
-            "category": [
+            "Id": 22,
+            "Title": "Toy Story 3",
+            "Description": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+            "Category": [
                 "Toy Story",
                 "Comedy",
                 "Animation",
@@ -634,10 +634,10 @@
             "Images": "https://i.pinimg.com/736x/78/d1/98/78d198f4ae64bdb34a4c3fe1617bc333.jpg"
         },
         {
-            "id": 23,
-            "title": "Toy Story 4",
-            "description": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
-            "category": [
+            "Id": 23,
+            "Title": "Toy Story 4",
+            "Description": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+            "Category": [
                 "Toy Story",
                 "Artificial Intelligence",
                 "Animation",
@@ -667,10 +667,10 @@
             "Images": "https://i.pinimg.com/1200x/b5/86/f7/b586f7b9668b6594dfcb2a5311fba39b.jpg"
         },
         {
-            "id": 24,
-            "title": "Toy Story 5",
-            "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-            "category": [
+            "Id": 24,
+            "Title": "Toy Story 5",
+            "Description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+            "Category": [
                 "Toy Story",
                 "Artificial Intelligence",
                 "Animation",
@@ -699,10 +699,10 @@
             "Images": "https://i.pinimg.com/1200x/cc/90/28/cc90286e86acbeb21310642c7407c75c.jpg"
         },
         {
-            "id": 25,
-            "title": "Inside Out",
-            "description": "After a young girl is uprooted from her Midwest life and moved to San Francisco, her emotions conflict on how best to navigate her new reality.",
-            "category": [
+            "Id": 25,
+            "Title": "Inside Out",
+            "Description": "After a young girl is uprooted from her Midwest life and moved to San Francisco, her emotions conflict on how best to navigate her new reality.",
+            "Category": [
                 "Artificial Intelligence",
                 "Psychological Drama",
                 "Adventure",
@@ -731,10 +731,10 @@
             "Images": "https://i.pinimg.com/736x/bc/f4/41/bcf44173f1eaf7e977b2747f455a189c.jpg"
         },
         {
-            "id": 26,
-            "title": "Inside Out 2",
-            "description": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
-            "category": [
+            "Id": 26,
+            "Title": "Inside Out 2",
+            "Description": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
+            "Category": [
                 "Artificial Intelligence",
                 "Psychological Drama",
                 "Adventure",
@@ -763,10 +763,10 @@
             "Images": "https://i.pinimg.com/736x/ce/7d/26/ce7d2689e5e782802c88e075dc41a506.jpg"
         },
         {
-            "id": 27,
-            "title": "The Incredibles",
-            "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
-            "category": [
+            "Id": 27,
+            "Title": "The Incredibles",
+            "Description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+            "Category": [
                 "Action",
                 "Animation",
                 "Superhero",
@@ -792,10 +792,10 @@
             "Images": "https://i.pinimg.com/1200x/4e/a4/52/4ea452788404ee75184ab838bb275adb.jpg"
         },
         {
-            "id": 28,
-            "title": "The Incredibles 2",
-            "description": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
-            "category": [
+            "Id": 28,
+            "Title": "The Incredibles 2",
+            "Description": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+            "Category": [
                 "Action",
                 "Animation",
                 "Superhero",
@@ -822,10 +822,10 @@
             "Images": "https://i.pinimg.com/1200x/97/77/ff/9777ff27fe13cbab9d44fe4a9ff5a5df.jpg"
         },
         {
-            "id": 29,
-            "title": "WALL E",
-            "description": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
-            "category": [
+            "Id": 29,
+            "Title": "WALL E",
+            "Description": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
+            "Category": [
                 "Adventure Epic",
                 "Artificial Intelligence",
                 "Epic",
@@ -852,10 +852,10 @@
             "Images": "https://i.pinimg.com/1200x/6f/2d/13/6f2d133ca140a0053417916503dadd09.jpg"
         },
         {
-            "id": 30,
-            "title": "Coco",
-            "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
-            "category": [
+            "Id": 30,
+            "Title": "Coco",
+            "Description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "Category": [
                 "Adventure Epic",
                 "Adventure",
                 "Dark Comedy",
@@ -885,10 +885,10 @@
             "Images": "https://i.pinimg.com/736x/60/75/48/607548a9e4e24f3dadee160fd08dedc3.jpg"
         },
         {
-            "id": 31,
-            "title": "Ratatouille",
-            "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
-            "category": [
+            "Id": 31,
+            "Title": "Ratatouille",
+            "Description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+            "Category": [
                 "Adventure",
                 "Animation",
                 "Family",
@@ -914,10 +914,10 @@
             "Images": "https://i.pinimg.com/1200x/ec/46/ec/ec46ec66a7ced5058e2f823c2fc2e6e0.jpg"
         },
         {
-            "id": 32,
-            "title": "How to Train Your Dragon",
-            "description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
-            "category": [
+            "Id": 32,
+            "Title": "How to Train Your Dragon",
+            "Description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+            "Category": [
                 "Adventure",
                 "Epic",
                 "Fantasy",
@@ -944,10 +944,10 @@
             "Images": "https://i.pinimg.com/1200x/08/4a/ca/084aca73452cb26a5da4b765997cb7b6.jpg"
         },
         {
-            "id": 33,
-            "title": "How to Train Your Dragon 2",
-            "description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
-            "category": [
+            "Id": 33,
+            "Title": "How to Train Your Dragon 2",
+            "Description": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+            "Category": [
                 "Adventure",
                 "Adventure Epic",
                 "Epic",
@@ -974,10 +974,10 @@
             "Images": "https://i.pinimg.com/1200x/96/d4/32/96d432654ba03a6bd709e088f01d5aa2.jpg"
         },
         {
-            "id": 34,
-            "title": "How to Train Your Dragon: The Hidden World",
-            "description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
-            "category": [
+            "Id": 34,
+            "Title": "How to Train Your Dragon: The Hidden World",
+            "Description": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "Category": [
                 "Adventure",
                 "Epic",
                 "Fantasy",
@@ -1003,10 +1003,10 @@
             "Images": "https://i.pinimg.com/1200x/ac/e1/c3/ace1c358f8716bccad0d80e157c8b369.jpg"
         },
         {
-            "id": 35,
-            "title": "6 Days",
-            "description": "High school sweethearts reunite years later, forcing them to confront the profound question: can their love withstand the test of time?.",
-            "category": [
+            "Id": 35,
+            "Title": "6 Days",
+            "Description": "High school sweethearts reunite years later, forcing them to confront the profound question: can their love withstand the test of time?.",
+            "Category": [
                 "Arabic",
                 "Drama",
                 "Romance"
@@ -1028,10 +1028,10 @@
             "Images": "https://i.pinimg.com/736x/b1/20/e5/b120e5fe4babbdf74eb949f70508afe3.jpg"
         },
         {
-            "id": 36,
-            "title": "The Guest",
-            "description": "The Guest tells the story of a young man who visits a family during dinner, and then the events develop in a direction that no one expects.",
-            "category": [
+            "Id": 36,
+            "Title": "The Guest",
+            "Description": "The Guest tells the story of a young man who visits a family during dinner, and then the events develop in a direction that no one expects.",
+            "Category": [
                 "Arabic",
                 "Drama",
                 "Thriller"

@@ -1,10 +1,10 @@
 {
     "Series": [
         {
-            "id": 1,
-            "title": "Breaking Bad",
-            "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
-            "category": [
+            "Id": 1,
+            "Title": "Breaking Bad",
+            "Description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+            "Category": [
                 "Psychological Drama",
                 "Tragedy",
                 "Crime",
@@ -32,10 +32,10 @@
             "Images": "https://i.pinimg.com/1200x/98/a7/df/98a7df05ad4ccee3a97b1b91d896005c.jpg"
         },
         {
-            "id": 2,
-            "title": "Better Call Saul",
-            "description": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
-            "category": [
+            "Id": 2,
+            "Title": "Better Call Saul",
+            "Description": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",
+            "Category": [
                 "Psychological Drama",
                 "Tragedy",
                 "Crime",
@@ -62,10 +62,10 @@
             "Images": "https://i.pinimg.com/1200x/21/0b/4f/210b4f0bca4ece6d62fb9a6e6e44f7f1.jpg"
         },
         {
-            "id": 3,
-            "title": "Game of Thrones",
-            "description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
-            "category": [
+            "Id": 3,
+            "Title": "Game of Thrones",
+            "Description": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
+            "Category": [
                 "Epic",
                 "Adventure Epic",
                 "Adventure",
@@ -92,10 +92,10 @@
             "Images": "https://i.pinimg.com/1200x/bb/0a/ba/bb0aba433814f2033bd64c6c30ed4788.jpg"
         },
         {
-            "id": 4,
-            "title": "Chernobyl",
-            "description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
-            "category": [
+            "Id": 4,
+            "Title": "Chernobyl",
+            "Description": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+            "Category": [
                 "Docudrama",
                 "Psychological Drama",
                 "Drama",
@@ -123,10 +123,10 @@
             "Images": "https://i.pinimg.com/1200x/4c/a5/1c/4ca51c82439f601ad80222f0782409d1.jpg"
         },
         {
-            "id": 5,
-            "title": "The Queen's Gambit",
-            "description": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
-            "category": [
+            "Id": 5,
+            "Title": "The Queen's Gambit",
+            "Description": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+            "Category": [
                 "Epic",
                 "Drama",
                 "Psychological Drama",
@@ -152,10 +152,10 @@
             "Images": "https://i.pinimg.com/1200x/69/b5/ea/69b5eaed08a3d49e113e366428bf5474.jpg"
         },
         {
-            "id": 6,
-            "title": "La casa de papel (Money Heist)",
-            "description": "An unusual group of robbers attempts to carry out the most perfect robbery in Spanish history: stealing 2.4 billion euros from the Royal Mint of Spain.",
-            "category": [
+            "Id": 6,
+            "Title": "La casa de papel (Money Heist)",
+            "Description": "An unusual group of robbers attempts to carry out the most perfect robbery in Spanish history: stealing 2.4 billion euros from the Royal Mint of Spain.",
+            "Category": [
                 "Action",
                 "Drama",
                 "Crime",
@@ -181,10 +181,10 @@
             "Images": "https://i.pinimg.com/736x/55/4d/e7/554de7bf6c371afa9ecd294fc9355d8b.jpg"
         },
         {
-            "id": 7,
-            "title": "Paranormal",
-            "description": "Set in the 1960s, the series, packed with mystery and suspense, depicts the adventures of Doctor Refaat Ismail, a single hematologist who finds himself faced with a series of supernatural events.",
-            "category": [
+            "Id": 7,
+            "Title": "Paranormal",
+            "Description": "Set in the 1960s, the series, packed with mystery and suspense, depicts the adventures of Doctor Refaat Ismail, a single hematologist who finds himself faced with a series of supernatural events.",
+            "Category": [
                 "Psychological Drama",
                 "Arabic",
                 "Psychological Horror",
@@ -213,10 +213,10 @@
             "Images": "https://i.pinimg.com/1200x/60/8a/37/608a37223306d02b4e3f6d909a4bef3e.jpg"
         },
         {
-            "id": 8,
-            "title": "Special Case",
-            "description": "Nadeem's journey, full of challenges, was never easy. Despite exploitation, his character and pure heart consistently rescued him.",
-            "category": [
+            "Id": 8,
+            "Title": "Special Case",
+            "Description": "Nadeem's journey, full of challenges, was never easy. Despite exploitation, his character and pure heart consistently rescued him.",
+            "Category": [
                 "Arabic",
                 "Drama",
                 "Comedy",
@@ -241,10 +241,10 @@
             "Images": "https://cdn.al-ain.com/lg/images/2024/1/08/196-164955-artist-hajar-alsarraj-2.jpeg"
         },
         {
-            "id": 9,
-            "title": "Apartment Works",
-            "description": "A forensic doctor named Hamdi Abdel Rahim and his wife are expecting twins after a long marriage. They make the difficult decision to hire a home manager to look after the twins, but they struggle a lot to find someone.",
-            "category": [
+            "Id": 9,
+            "Title": "Apartment Works",
+            "Description": "A forensic doctor named Hamdi Abdel Rahim and his wife are expecting twins after a long marriage. They make the difficult decision to hire a home manager to look after the twins, but they struggle a lot to find someone.",
+            "Category": [
                 "Arabic",
                 "Comedy",
                 "Sitcom"
@@ -269,10 +269,10 @@
             "Images": "https://i.pinimg.com/736x/77/ea/28/77ea28838b1cedd6b5b5a9a4c6b09838.jpg"
         },
         {
-            "id": 10,
-            "title": "6 months",
-            "description": "Murad and Latifa compete for a sales position at a real estate company. Sales challenges reveal much about their true ambitions during a six-month probation period.",
-            "category": [
+            "Id": 10,
+            "Title": "6 months",
+            "Description": "Murad and Latifa compete for a sales position at a real estate company. Sales challenges reveal much about their true ambitions during a six-month probation period.",
+            "Category": [
                 "Arabic",
                 "Drama",
                 "Comedy",
@@ -298,10 +298,10 @@
             "Images": "https://d3mfc5qyv0pefp.cloudfront.net/eyJidWNrZXQiOiJ3aXRpbWFnZXMiLCJrZXkiOiJpbWdzL2NsaXBzLzExMzk2OTE3Mjg1NDMyMjQ5ODcucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMTkyMCIsImhlaWdodCI6IjEwODAifSwidG9Gb3JtYXQiOiJqcGciLCJqcGVnIjp7InF1YWxpdHkiOjUwfX19?signature=7cd679a8970b7f4436ecc41e3d39982196dc48452b8cec0b5d23c2e8c8db58a8"
         },
         {
-            "id": 11,
-            "title": "Arcane",
-            "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
-            "category": [
+            "Id": 11,
+            "Title": "Arcane",
+            "Description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+            "Category": [
                 "Action",
                 "Animation",
                 "Fantasy",
@@ -329,10 +329,10 @@
             "Images": "https://i.pinimg.com/1200x/c1/31/f3/c131f3b6563552f01bf5abdd93af9eb3.jpg"
         },
         {
-            "id": 12,
-            "title": "Death Note",
-            "description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
-            "category": [
+            "Id": 12,
+            "Title": "Death Note",
+            "Description": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+            "Category": [
                 "Action",
                 "Drama",
                 "Animation",

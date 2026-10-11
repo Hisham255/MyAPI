@@ -1,0 +1,1733 @@
+{
+    "News": [
+      {
+        "Id": 1,
+        "MovieId": 1,
+        "MovieTitle": "Interstellar",
+        "Title": "Interstellar: what audiences are saying",
+        "Summary": "Sample article about Interstellar, a 2014 Sci-Fi film currently rated 8.7 in the catalog.",
+        "Content": "Interstellar, directed by Christopher Nolan, is a 2014 Sci-Fi film rated 8.7 in the catalog. Viewers most often mention the performances of Matthew McConaughey and Anne Hathaway. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-10-08T09:00:00Z",
+        "Url": "https://example.com/news/1",
+        "IsSample": true
+      },
+      {
+        "Id": 2,
+        "MovieId": 1,
+        "MovieTitle": "Interstellar",
+        "Title": "Spotlight: Matthew McConaughey and Anne Hathaway in Interstellar",
+        "Summary": "A sample cast spotlight for Interstellar.",
+        "Content": "Matthew McConaughey and Anne Hathaway are among the stars of Interstellar (2014). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-10-07T06:00:00Z",
+        "Url": "https://example.com/news/2",
+        "IsSample": true
+      },
+      {
+        "Id": 3,
+        "MovieId": 1,
+        "MovieTitle": "Interstellar",
+        "Title": "A closer look at Christopher Nolan's Interstellar",
+        "Summary": "Sample feature on Christopher Nolan and Interstellar.",
+        "Content": "This sample feature looks at Interstellar (2014), directed by Christopher Nolan, and where it sits among Sci-Fi titles in the catalog with its 8.7 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-10-06T03:00:00Z",
+        "Url": "https://example.com/news/3",
+        "IsSample": true
+      },
+      {
+        "Id": 4,
+        "MovieId": 2,
+        "MovieTitle": "Green Book",
+        "Title": "Green Book: what audiences are saying",
+        "Summary": "Sample article about Green Book, a 2018 Drama film currently rated 8.2 in the catalog.",
+        "Content": "Green Book, directed by Peter Farrelly, is a 2018 Drama film rated 8.2 in the catalog. Viewers most often mention the performances of Viggo Mortensen and Mahershala Ali. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-10-06T09:00:00Z",
+        "Url": "https://example.com/news/4",
+        "IsSample": true
+      },
+      {
+        "Id": 5,
+        "MovieId": 2,
+        "MovieTitle": "Green Book",
+        "Title": "Spotlight: Viggo Mortensen and Mahershala Ali in Green Book",
+        "Summary": "A sample cast spotlight for Green Book.",
+        "Content": "Viggo Mortensen and Mahershala Ali are among the stars of Green Book (2018). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-10-05T06:00:00Z",
+        "Url": "https://example.com/news/5",
+        "IsSample": true
+      },
+      {
+        "Id": 6,
+        "MovieId": 2,
+        "MovieTitle": "Green Book",
+        "Title": "A closer look at Peter Farrelly's Green Book",
+        "Summary": "Sample feature on Peter Farrelly and Green Book.",
+        "Content": "This sample feature looks at Green Book (2018), directed by Peter Farrelly, and where it sits among Drama titles in the catalog with its 8.2 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-10-04T03:00:00Z",
+        "Url": "https://example.com/news/6",
+        "IsSample": true
+      },
+      {
+        "Id": 7,
+        "MovieId": 3,
+        "MovieTitle": "Obsession",
+        "Title": "Obsession: what audiences are saying",
+        "Summary": "Sample article about Obsession, a 2025 Psychological Thriller film currently rated 7.8 in the catalog.",
+        "Content": "Obsession, directed by Curry Barker, is a 2025 Psychological Thriller film rated 7.8 in the catalog. Viewers most often mention the performances of Michael Johnston and Inde Navarrette. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-10-04T09:00:00Z",
+        "Url": "https://example.com/news/7",
+        "IsSample": true
+      },
+      {
+        "Id": 8,
+        "MovieId": 3,
+        "MovieTitle": "Obsession",
+        "Title": "Spotlight: Michael Johnston and Inde Navarrette in Obsession",
+        "Summary": "A sample cast spotlight for Obsession.",
+        "Content": "Michael Johnston and Inde Navarrette are among the stars of Obsession (2025). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-10-03T06:00:00Z",
+        "Url": "https://example.com/news/8",
+        "IsSample": true
+      },
+      {
+        "Id": 9,
+        "MovieId": 3,
+        "MovieTitle": "Obsession",
+        "Title": "A closer look at Curry Barker's Obsession",
+        "Summary": "Sample feature on Curry Barker and Obsession.",
+        "Content": "This sample feature looks at Obsession (2025), directed by Curry Barker, and where it sits among Psychological Thriller titles in the catalog with its 7.8 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-10-02T03:00:00Z",
+        "Url": "https://example.com/news/9",
+        "IsSample": true
+      },
+      {
+        "Id": 10,
+        "MovieId": 4,
+        "MovieTitle": "Big Hero 6",
+        "Title": "Big Hero 6: what audiences are saying",
+        "Summary": "Sample article about Big Hero 6, a 2014 Animation film currently rated 7.8 in the catalog.",
+        "Content": "Big Hero 6, directed by Chris Williams, is a 2014 Animation film rated 7.8 in the catalog. Viewers most often mention the performances of Ryan Potter and Scott Adsit. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-10-02T09:00:00Z",
+        "Url": "https://example.com/news/10",
+        "IsSample": true
+      },
+      {
+        "Id": 11,
+        "MovieId": 4,
+        "MovieTitle": "Big Hero 6",
+        "Title": "Spotlight: Ryan Potter and Scott Adsit in Big Hero 6",
+        "Summary": "A sample cast spotlight for Big Hero 6.",
+        "Content": "Ryan Potter and Scott Adsit are among the stars of Big Hero 6 (2014). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-10-01T06:00:00Z",
+        "Url": "https://example.com/news/11",
+        "IsSample": true
+      },
+      {
+        "Id": 12,
+        "MovieId": 4,
+        "MovieTitle": "Big Hero 6",
+        "Title": "A closer look at Chris Williams's Big Hero 6",
+        "Summary": "Sample feature on Chris Williams and Big Hero 6.",
+        "Content": "This sample feature looks at Big Hero 6 (2014), directed by Chris Williams, and where it sits among Animation titles in the catalog with its 7.8 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-30T03:00:00Z",
+        "Url": "https://example.com/news/12",
+        "IsSample": true
+      },
+      {
+        "Id": 13,
+        "MovieId": 5,
+        "MovieTitle": "I Want to Eat Your Pancreas",
+        "Title": "I Want to Eat Your Pancreas: what audiences are saying",
+        "Summary": "Sample article about I Want to Eat Your Pancreas, a 2018 Anime film currently rated 8.1 in the catalog.",
+        "Content": "I Want to Eat Your Pancreas, directed by Shin'ichirô Ushijima, is a 2018 Anime film rated 8.1 in the catalog. Viewers most often mention the performances of Mahiro Takasugi and Lynn. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-30T09:00:00Z",
+        "Url": "https://example.com/news/13",
+        "IsSample": true
+      },
+      {
+        "Id": 14,
+        "MovieId": 5,
+        "MovieTitle": "I Want to Eat Your Pancreas",
+        "Title": "Spotlight: Mahiro Takasugi and Lynn in I Want to Eat Your Pancreas",
+        "Summary": "A sample cast spotlight for I Want to Eat Your Pancreas.",
+        "Content": "Mahiro Takasugi and Lynn are among the stars of I Want to Eat Your Pancreas (2018). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-29T06:00:00Z",
+        "Url": "https://example.com/news/14",
+        "IsSample": true
+      },
+      {
+        "Id": 15,
+        "MovieId": 5,
+        "MovieTitle": "I Want to Eat Your Pancreas",
+        "Title": "A closer look at Shin'ichirô Ushijima's I Want to Eat Your Pancreas",
+        "Summary": "Sample feature on Shin'ichirô Ushijima and I Want to Eat Your Pancreas.",
+        "Content": "This sample feature looks at I Want to Eat Your Pancreas (2018), directed by Shin'ichirô Ushijima, and where it sits among Anime titles in the catalog with its 8.1 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-28T03:00:00Z",
+        "Url": "https://example.com/news/15",
+        "IsSample": true
+      },
+      {
+        "Id": 16,
+        "MovieId": 6,
+        "MovieTitle": "All the Bright Places",
+        "Title": "All the Bright Places: what audiences are saying",
+        "Summary": "Sample article about All the Bright Places, a 2020 Teen Drama film currently rated 6.6 in the catalog.",
+        "Content": "All the Bright Places, directed by Brett Haley, is a 2020 Teen Drama film rated 6.6 in the catalog. Viewers most often mention the performances of Elle Fanning and Justice Smith. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-28T09:00:00Z",
+        "Url": "https://example.com/news/16",
+        "IsSample": true
+      },
+      {
+        "Id": 17,
+        "MovieId": 6,
+        "MovieTitle": "All the Bright Places",
+        "Title": "Spotlight: Elle Fanning and Justice Smith in All the Bright Places",
+        "Summary": "A sample cast spotlight for All the Bright Places.",
+        "Content": "Elle Fanning and Justice Smith are among the stars of All the Bright Places (2020). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-27T06:00:00Z",
+        "Url": "https://example.com/news/17",
+        "IsSample": true
+      },
+      {
+        "Id": 18,
+        "MovieId": 6,
+        "MovieTitle": "All the Bright Places",
+        "Title": "A closer look at Brett Haley's All the Bright Places",
+        "Summary": "Sample feature on Brett Haley and All the Bright Places.",
+        "Content": "This sample feature looks at All the Bright Places (2020), directed by Brett Haley, and where it sits among Teen Drama titles in the catalog with its 6.6 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-26T03:00:00Z",
+        "Url": "https://example.com/news/18",
+        "IsSample": true
+      },
+      {
+        "Id": 19,
+        "MovieId": 7,
+        "MovieTitle": "Up",
+        "Title": "Up: what audiences are saying",
+        "Summary": "Sample article about Up, a 2009 Adventure film currently rated 8.3 in the catalog.",
+        "Content": "Up, directed by Pete Docter, is a 2009 Adventure film rated 8.3 in the catalog. Viewers most often mention the performances of Edward Asner and Jordan Nagai. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-26T09:00:00Z",
+        "Url": "https://example.com/news/19",
+        "IsSample": true
+      },
+      {
+        "Id": 20,
+        "MovieId": 7,
+        "MovieTitle": "Up",
+        "Title": "Spotlight: Edward Asner and Jordan Nagai in Up",
+        "Summary": "A sample cast spotlight for Up.",
+        "Content": "Edward Asner and Jordan Nagai are among the stars of Up (2009). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-25T06:00:00Z",
+        "Url": "https://example.com/news/20",
+        "IsSample": true
+      },
+      {
+        "Id": 21,
+        "MovieId": 7,
+        "MovieTitle": "Up",
+        "Title": "A closer look at Pete Docter's Up",
+        "Summary": "Sample feature on Pete Docter and Up.",
+        "Content": "This sample feature looks at Up (2009), directed by Pete Docter, and where it sits among Adventure titles in the catalog with its 8.3 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-24T03:00:00Z",
+        "Url": "https://example.com/news/21",
+        "IsSample": true
+      },
+      {
+        "Id": 22,
+        "MovieId": 8,
+        "MovieTitle": "Shutter Island",
+        "Title": "Shutter Island: what audiences are saying",
+        "Summary": "Sample article about Shutter Island, a 2010 Mystery film currently rated 8.2 in the catalog.",
+        "Content": "Shutter Island, directed by Martin Scorsese, is a 2010 Mystery film rated 8.2 in the catalog. Viewers most often mention the performances of Leonardo DiCaprio and Emily Mortimer. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-24T09:00:00Z",
+        "Url": "https://example.com/news/22",
+        "IsSample": true
+      },
+      {
+        "Id": 23,
+        "MovieId": 8,
+        "MovieTitle": "Shutter Island",
+        "Title": "Spotlight: Leonardo DiCaprio and Emily Mortimer in Shutter Island",
+        "Summary": "A sample cast spotlight for Shutter Island.",
+        "Content": "Leonardo DiCaprio and Emily Mortimer are among the stars of Shutter Island (2010). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-23T06:00:00Z",
+        "Url": "https://example.com/news/23",
+        "IsSample": true
+      },
+      {
+        "Id": 24,
+        "MovieId": 8,
+        "MovieTitle": "Shutter Island",
+        "Title": "A closer look at Martin Scorsese's Shutter Island",
+        "Summary": "Sample feature on Martin Scorsese and Shutter Island.",
+        "Content": "This sample feature looks at Shutter Island (2010), directed by Martin Scorsese, and where it sits among Mystery titles in the catalog with its 8.2 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-22T03:00:00Z",
+        "Url": "https://example.com/news/24",
+        "IsSample": true
+      },
+      {
+        "Id": 25,
+        "MovieId": 9,
+        "MovieTitle": "The Wolf of Wall Street",
+        "Title": "The Wolf of Wall Street: what audiences are saying",
+        "Summary": "Sample article about The Wolf of Wall Street, a 2013 Comedy film currently rated 8.2 in the catalog.",
+        "Content": "The Wolf of Wall Street, directed by Martin Scorsese, is a 2013 Comedy film rated 8.2 in the catalog. Viewers most often mention the performances of Leonardo DiCaprio and Jonah Hill. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-22T09:00:00Z",
+        "Url": "https://example.com/news/25",
+        "IsSample": true
+      },
+      {
+        "Id": 26,
+        "MovieId": 9,
+        "MovieTitle": "The Wolf of Wall Street",
+        "Title": "Spotlight: Leonardo DiCaprio and Jonah Hill in The Wolf of Wall Street",
+        "Summary": "A sample cast spotlight for The Wolf of Wall Street.",
+        "Content": "Leonardo DiCaprio and Jonah Hill are among the stars of The Wolf of Wall Street (2013). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-21T06:00:00Z",
+        "Url": "https://example.com/news/26",
+        "IsSample": true
+      },
+      {
+        "Id": 27,
+        "MovieId": 9,
+        "MovieTitle": "The Wolf of Wall Street",
+        "Title": "A closer look at Martin Scorsese's The Wolf of Wall Street",
+        "Summary": "Sample feature on Martin Scorsese and The Wolf of Wall Street.",
+        "Content": "This sample feature looks at The Wolf of Wall Street (2013), directed by Martin Scorsese, and where it sits among Comedy titles in the catalog with its 8.2 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-20T03:00:00Z",
+        "Url": "https://example.com/news/27",
+        "IsSample": true
+      },
+      {
+        "Id": 28,
+        "MovieId": 10,
+        "MovieTitle": "Titanic",
+        "Title": "Titanic: what audiences are saying",
+        "Summary": "Sample article about Titanic, a 1997 Romance film currently rated 8.0 in the catalog.",
+        "Content": "Titanic, directed by James Cameron, is a 1997 Romance film rated 8.0 in the catalog. Viewers most often mention the performances of Leonardo DiCaprio and Kate Winslet. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-20T09:00:00Z",
+        "Url": "https://example.com/news/28",
+        "IsSample": true
+      },
+      {
+        "Id": 29,
+        "MovieId": 10,
+        "MovieTitle": "Titanic",
+        "Title": "Spotlight: Leonardo DiCaprio and Kate Winslet in Titanic",
+        "Summary": "A sample cast spotlight for Titanic.",
+        "Content": "Leonardo DiCaprio and Kate Winslet are among the stars of Titanic (1997). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-19T06:00:00Z",
+        "Url": "https://example.com/news/29",
+        "IsSample": true
+      },
+      {
+        "Id": 30,
+        "MovieId": 10,
+        "MovieTitle": "Titanic",
+        "Title": "A closer look at James Cameron's Titanic",
+        "Summary": "Sample feature on James Cameron and Titanic.",
+        "Content": "This sample feature looks at Titanic (1997), directed by James Cameron, and where it sits among Romance titles in the catalog with its 8.0 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-18T03:00:00Z",
+        "Url": "https://example.com/news/30",
+        "IsSample": true
+      },
+      {
+        "Id": 31,
+        "MovieId": 11,
+        "MovieTitle": "Catch Me If You Can",
+        "Title": "Catch Me If You Can: what audiences are saying",
+        "Summary": "Sample article about Catch Me If You Can, a 2002 Biography film currently rated 8.1 in the catalog.",
+        "Content": "Catch Me If You Can, directed by Steven Spielberg, is a 2002 Biography film rated 8.1 in the catalog. Viewers most often mention the performances of Leonardo DiCaprio and Tom Hanks. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-18T09:00:00Z",
+        "Url": "https://example.com/news/31",
+        "IsSample": true
+      },
+      {
+        "Id": 32,
+        "MovieId": 11,
+        "MovieTitle": "Catch Me If You Can",
+        "Title": "Spotlight: Leonardo DiCaprio and Tom Hanks in Catch Me If You Can",
+        "Summary": "A sample cast spotlight for Catch Me If You Can.",
+        "Content": "Leonardo DiCaprio and Tom Hanks are among the stars of Catch Me If You Can (2002). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-17T06:00:00Z",
+        "Url": "https://example.com/news/32",
+        "IsSample": true
+      },
+      {
+        "Id": 33,
+        "MovieId": 11,
+        "MovieTitle": "Catch Me If You Can",
+        "Title": "A closer look at Steven Spielberg's Catch Me If You Can",
+        "Summary": "Sample feature on Steven Spielberg and Catch Me If You Can.",
+        "Content": "This sample feature looks at Catch Me If You Can (2002), directed by Steven Spielberg, and where it sits among Biography titles in the catalog with its 8.1 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-16T03:00:00Z",
+        "Url": "https://example.com/news/33",
+        "IsSample": true
+      },
+      {
+        "Id": 34,
+        "MovieId": 12,
+        "MovieTitle": "Inception",
+        "Title": "Inception: what audiences are saying",
+        "Summary": "Sample article about Inception, a 2010 Thriller film currently rated 8.8 in the catalog.",
+        "Content": "Inception, directed by Christopher Nolan, is a 2010 Thriller film rated 8.8 in the catalog. Viewers most often mention the performances of Leonardo DiCaprio and Joseph Gordon-Levitt. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-16T09:00:00Z",
+        "Url": "https://example.com/news/34",
+        "IsSample": true
+      },
+      {
+        "Id": 35,
+        "MovieId": 12,
+        "MovieTitle": "Inception",
+        "Title": "Spotlight: Leonardo DiCaprio and Joseph Gordon-Levitt in Inception",
+        "Summary": "A sample cast spotlight for Inception.",
+        "Content": "Leonardo DiCaprio and Joseph Gordon-Levitt are among the stars of Inception (2010). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-15T06:00:00Z",
+        "Url": "https://example.com/news/35",
+        "IsSample": true
+      },
+      {
+        "Id": 36,
+        "MovieId": 12,
+        "MovieTitle": "Inception",
+        "Title": "A closer look at Christopher Nolan's Inception",
+        "Summary": "Sample feature on Christopher Nolan and Inception.",
+        "Content": "This sample feature looks at Inception (2010), directed by Christopher Nolan, and where it sits among Thriller titles in the catalog with its 8.8 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-14T03:00:00Z",
+        "Url": "https://example.com/news/36",
+        "IsSample": true
+      },
+      {
+        "Id": 37,
+        "MovieId": 13,
+        "MovieTitle": "Forrest Gump",
+        "Title": "Forrest Gump: what audiences are saying",
+        "Summary": "Sample article about Forrest Gump, a 1994 Drama film currently rated 8.8 in the catalog.",
+        "Content": "Forrest Gump, directed by Robert Zemeckis, is a 1994 Drama film rated 8.8 in the catalog. Viewers most often mention the performances of Tom Hanks and Robin Wright. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-14T09:00:00Z",
+        "Url": "https://example.com/news/37",
+        "IsSample": true
+      },
+      {
+        "Id": 38,
+        "MovieId": 13,
+        "MovieTitle": "Forrest Gump",
+        "Title": "Spotlight: Tom Hanks and Robin Wright in Forrest Gump",
+        "Summary": "A sample cast spotlight for Forrest Gump.",
+        "Content": "Tom Hanks and Robin Wright are among the stars of Forrest Gump (1994). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-13T06:00:00Z",
+        "Url": "https://example.com/news/38",
+        "IsSample": true
+      },
+      {
+        "Id": 39,
+        "MovieId": 13,
+        "MovieTitle": "Forrest Gump",
+        "Title": "A closer look at Robert Zemeckis's Forrest Gump",
+        "Summary": "Sample feature on Robert Zemeckis and Forrest Gump.",
+        "Content": "This sample feature looks at Forrest Gump (1994), directed by Robert Zemeckis, and where it sits among Drama titles in the catalog with its 8.8 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-12T03:00:00Z",
+        "Url": "https://example.com/news/39",
+        "IsSample": true
+      },
+      {
+        "Id": 40,
+        "MovieId": 14,
+        "MovieTitle": "The Runner",
+        "Title": "The Runner: what audiences are saying",
+        "Summary": "Sample article about The Runner, a 2026 Thriller film currently rated 4.2 in the catalog.",
+        "Content": "The Runner, directed by Kevin Macdonald, is a 2026 Thriller film rated 4.2 in the catalog. Viewers most often mention the performances of Gal Gadot and Damian Lewis. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-12T09:00:00Z",
+        "Url": "https://example.com/news/40",
+        "IsSample": true
+      },
+      {
+        "Id": 41,
+        "MovieId": 14,
+        "MovieTitle": "The Runner",
+        "Title": "Spotlight: Gal Gadot and Damian Lewis in The Runner",
+        "Summary": "A sample cast spotlight for The Runner.",
+        "Content": "Gal Gadot and Damian Lewis are among the stars of The Runner (2026). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-11T06:00:00Z",
+        "Url": "https://example.com/news/41",
+        "IsSample": true
+      },
+      {
+        "Id": 42,
+        "MovieId": 14,
+        "MovieTitle": "The Runner",
+        "Title": "A closer look at Kevin Macdonald's The Runner",
+        "Summary": "Sample feature on Kevin Macdonald and The Runner.",
+        "Content": "This sample feature looks at The Runner (2026), directed by Kevin Macdonald, and where it sits among Thriller titles in the catalog with its 4.2 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-10T03:00:00Z",
+        "Url": "https://example.com/news/42",
+        "IsSample": true
+      },
+      {
+        "Id": 43,
+        "MovieId": 15,
+        "MovieTitle": "Parasite",
+        "Title": "Parasite: what audiences are saying",
+        "Summary": "Sample article about Parasite, a 2019 Thriller film currently rated 8.5 in the catalog.",
+        "Content": "Parasite, directed by Bong Joon Ho, is a 2019 Thriller film rated 8.5 in the catalog. Viewers most often mention the performances of Song Kang-ho and Lee Sun-kyun. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-10T09:00:00Z",
+        "Url": "https://example.com/news/43",
+        "IsSample": true
+      },
+      {
+        "Id": 44,
+        "MovieId": 15,
+        "MovieTitle": "Parasite",
+        "Title": "Spotlight: Song Kang-ho and Lee Sun-kyun in Parasite",
+        "Summary": "A sample cast spotlight for Parasite.",
+        "Content": "Song Kang-ho and Lee Sun-kyun are among the stars of Parasite (2019). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-09T06:00:00Z",
+        "Url": "https://example.com/news/44",
+        "IsSample": true
+      },
+      {
+        "Id": 45,
+        "MovieId": 15,
+        "MovieTitle": "Parasite",
+        "Title": "A closer look at Bong Joon Ho's Parasite",
+        "Summary": "Sample feature on Bong Joon Ho and Parasite.",
+        "Content": "This sample feature looks at Parasite (2019), directed by Bong Joon Ho, and where it sits among Thriller titles in the catalog with its 8.5 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-08T03:00:00Z",
+        "Url": "https://example.com/news/45",
+        "IsSample": true
+      },
+      {
+        "Id": 46,
+        "MovieId": 16,
+        "MovieTitle": "Gladiator",
+        "Title": "Gladiator: what audiences are saying",
+        "Summary": "Sample article about Gladiator, a 2000 Action film currently rated 8.5 in the catalog.",
+        "Content": "Gladiator, directed by Ridley Scott, is a 2000 Action film rated 8.5 in the catalog. Viewers most often mention the performances of Russell Crowe and Joaquin Phoenix. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-08T09:00:00Z",
+        "Url": "https://example.com/news/46",
+        "IsSample": true
+      },
+      {
+        "Id": 47,
+        "MovieId": 16,
+        "MovieTitle": "Gladiator",
+        "Title": "Spotlight: Russell Crowe and Joaquin Phoenix in Gladiator",
+        "Summary": "A sample cast spotlight for Gladiator.",
+        "Content": "Russell Crowe and Joaquin Phoenix are among the stars of Gladiator (2000). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-07T06:00:00Z",
+        "Url": "https://example.com/news/47",
+        "IsSample": true
+      },
+      {
+        "Id": 48,
+        "MovieId": 16,
+        "MovieTitle": "Gladiator",
+        "Title": "A closer look at Ridley Scott's Gladiator",
+        "Summary": "Sample feature on Ridley Scott and Gladiator.",
+        "Content": "This sample feature looks at Gladiator (2000), directed by Ridley Scott, and where it sits among Action titles in the catalog with its 8.5 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-06T03:00:00Z",
+        "Url": "https://example.com/news/48",
+        "IsSample": true
+      },
+      {
+        "Id": 49,
+        "MovieId": 17,
+        "MovieTitle": "Seven",
+        "Title": "Seven: what audiences are saying",
+        "Summary": "Sample article about Seven, a 1995 Crime film currently rated 8.6 in the catalog.",
+        "Content": "Seven, directed by David Fincher, is a 1995 Crime film rated 8.6 in the catalog. Viewers most often mention the performances of Morgan Freeman and Brad Pitt. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-06T09:00:00Z",
+        "Url": "https://example.com/news/49",
+        "IsSample": true
+      },
+      {
+        "Id": 50,
+        "MovieId": 17,
+        "MovieTitle": "Seven",
+        "Title": "Spotlight: Morgan Freeman and Brad Pitt in Seven",
+        "Summary": "A sample cast spotlight for Seven.",
+        "Content": "Morgan Freeman and Brad Pitt are among the stars of Seven (1995). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-05T06:00:00Z",
+        "Url": "https://example.com/news/50",
+        "IsSample": true
+      },
+      {
+        "Id": 51,
+        "MovieId": 17,
+        "MovieTitle": "Seven",
+        "Title": "A closer look at David Fincher's Seven",
+        "Summary": "Sample feature on David Fincher and Seven.",
+        "Content": "This sample feature looks at Seven (1995), directed by David Fincher, and where it sits among Crime titles in the catalog with its 8.6 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-04T03:00:00Z",
+        "Url": "https://example.com/news/51",
+        "IsSample": true
+      },
+      {
+        "Id": 52,
+        "MovieId": 18,
+        "MovieTitle": "Lucy",
+        "Title": "Lucy: what audiences are saying",
+        "Summary": "Sample article about Lucy, a 2014 Action film currently rated 6.4 in the catalog.",
+        "Content": "Lucy, directed by Luc Besson, is a 2014 Action film rated 6.4 in the catalog. Viewers most often mention the performances of Scarlett Johansson and Morgan Freeman. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-04T09:00:00Z",
+        "Url": "https://example.com/news/52",
+        "IsSample": true
+      },
+      {
+        "Id": 53,
+        "MovieId": 18,
+        "MovieTitle": "Lucy",
+        "Title": "Spotlight: Scarlett Johansson and Morgan Freeman in Lucy",
+        "Summary": "A sample cast spotlight for Lucy.",
+        "Content": "Scarlett Johansson and Morgan Freeman are among the stars of Lucy (2014). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-03T06:00:00Z",
+        "Url": "https://example.com/news/53",
+        "IsSample": true
+      },
+      {
+        "Id": 54,
+        "MovieId": 18,
+        "MovieTitle": "Lucy",
+        "Title": "A closer look at Luc Besson's Lucy",
+        "Summary": "Sample feature on Luc Besson and Lucy.",
+        "Content": "This sample feature looks at Lucy (2014), directed by Luc Besson, and where it sits among Action titles in the catalog with its 6.4 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-09-02T03:00:00Z",
+        "Url": "https://example.com/news/54",
+        "IsSample": true
+      },
+      {
+        "Id": 55,
+        "MovieId": 19,
+        "MovieTitle": "Oppenheimer",
+        "Title": "Oppenheimer: what audiences are saying",
+        "Summary": "Sample article about Oppenheimer, a 2023 Biography film currently rated 8.2 in the catalog.",
+        "Content": "Oppenheimer, directed by Christopher Nolan, is a 2023 Biography film rated 8.2 in the catalog. Viewers most often mention the performances of Cillian Murphy and Emily Blunt. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-09-02T09:00:00Z",
+        "Url": "https://example.com/news/55",
+        "IsSample": true
+      },
+      {
+        "Id": 56,
+        "MovieId": 19,
+        "MovieTitle": "Oppenheimer",
+        "Title": "Spotlight: Cillian Murphy and Emily Blunt in Oppenheimer",
+        "Summary": "A sample cast spotlight for Oppenheimer.",
+        "Content": "Cillian Murphy and Emily Blunt are among the stars of Oppenheimer (2023). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-09-01T06:00:00Z",
+        "Url": "https://example.com/news/56",
+        "IsSample": true
+      },
+      {
+        "Id": 57,
+        "MovieId": 19,
+        "MovieTitle": "Oppenheimer",
+        "Title": "A closer look at Christopher Nolan's Oppenheimer",
+        "Summary": "Sample feature on Christopher Nolan and Oppenheimer.",
+        "Content": "This sample feature looks at Oppenheimer (2023), directed by Christopher Nolan, and where it sits among Biography titles in the catalog with its 8.2 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-31T03:00:00Z",
+        "Url": "https://example.com/news/57",
+        "IsSample": true
+      },
+      {
+        "Id": 58,
+        "MovieId": 20,
+        "MovieTitle": "Toy Story",
+        "Title": "Toy Story: what audiences are saying",
+        "Summary": "Sample article about Toy Story, a 1995 Animation film currently rated 8.3 in the catalog.",
+        "Content": "Toy Story, directed by John Lasseter, is a 1995 Animation film rated 8.3 in the catalog. Viewers most often mention the performances of Tom Hanks and Tim Allen. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-31T09:00:00Z",
+        "Url": "https://example.com/news/58",
+        "IsSample": true
+      },
+      {
+        "Id": 59,
+        "MovieId": 20,
+        "MovieTitle": "Toy Story",
+        "Title": "Spotlight: Tom Hanks and Tim Allen in Toy Story",
+        "Summary": "A sample cast spotlight for Toy Story.",
+        "Content": "Tom Hanks and Tim Allen are among the stars of Toy Story (1995). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-30T06:00:00Z",
+        "Url": "https://example.com/news/59",
+        "IsSample": true
+      },
+      {
+        "Id": 60,
+        "MovieId": 20,
+        "MovieTitle": "Toy Story",
+        "Title": "A closer look at John Lasseter's Toy Story",
+        "Summary": "Sample feature on John Lasseter and Toy Story.",
+        "Content": "This sample feature looks at Toy Story (1995), directed by John Lasseter, and where it sits among Animation titles in the catalog with its 8.3 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-29T03:00:00Z",
+        "Url": "https://example.com/news/60",
+        "IsSample": true
+      },
+      {
+        "Id": 61,
+        "MovieId": 21,
+        "MovieTitle": "Toy Story 2",
+        "Title": "Toy Story 2: what audiences are saying",
+        "Summary": "Sample article about Toy Story 2, a 1999 Animation film currently rated 7.9 in the catalog.",
+        "Content": "Toy Story 2, directed by John Lasseter, is a 1999 Animation film rated 7.9 in the catalog. Viewers most often mention the performances of Tom Hanks and Tim Allen. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-29T09:00:00Z",
+        "Url": "https://example.com/news/61",
+        "IsSample": true
+      },
+      {
+        "Id": 62,
+        "MovieId": 21,
+        "MovieTitle": "Toy Story 2",
+        "Title": "Spotlight: Tom Hanks and Tim Allen in Toy Story 2",
+        "Summary": "A sample cast spotlight for Toy Story 2.",
+        "Content": "Tom Hanks and Tim Allen are among the stars of Toy Story 2 (1999). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-28T06:00:00Z",
+        "Url": "https://example.com/news/62",
+        "IsSample": true
+      },
+      {
+        "Id": 63,
+        "MovieId": 21,
+        "MovieTitle": "Toy Story 2",
+        "Title": "A closer look at John Lasseter's Toy Story 2",
+        "Summary": "Sample feature on John Lasseter and Toy Story 2.",
+        "Content": "This sample feature looks at Toy Story 2 (1999), directed by John Lasseter, and where it sits among Animation titles in the catalog with its 7.9 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-27T03:00:00Z",
+        "Url": "https://example.com/news/63",
+        "IsSample": true
+      },
+      {
+        "Id": 64,
+        "MovieId": 22,
+        "MovieTitle": "Toy Story 3",
+        "Title": "Toy Story 3: what audiences are saying",
+        "Summary": "Sample article about Toy Story 3, a 2010 Animation film currently rated 8.3 in the catalog.",
+        "Content": "Toy Story 3, directed by Lee Unkrich, is a 2010 Animation film rated 8.3 in the catalog. Viewers most often mention the performances of Tom Hanks and Tim Allen. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-27T09:00:00Z",
+        "Url": "https://example.com/news/64",
+        "IsSample": true
+      },
+      {
+        "Id": 65,
+        "MovieId": 22,
+        "MovieTitle": "Toy Story 3",
+        "Title": "Spotlight: Tom Hanks and Tim Allen in Toy Story 3",
+        "Summary": "A sample cast spotlight for Toy Story 3.",
+        "Content": "Tom Hanks and Tim Allen are among the stars of Toy Story 3 (2010). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-26T06:00:00Z",
+        "Url": "https://example.com/news/65",
+        "IsSample": true
+      },
+      {
+        "Id": 66,
+        "MovieId": 22,
+        "MovieTitle": "Toy Story 3",
+        "Title": "A closer look at Lee Unkrich's Toy Story 3",
+        "Summary": "Sample feature on Lee Unkrich and Toy Story 3.",
+        "Content": "This sample feature looks at Toy Story 3 (2010), directed by Lee Unkrich, and where it sits among Animation titles in the catalog with its 8.3 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-25T03:00:00Z",
+        "Url": "https://example.com/news/66",
+        "IsSample": true
+      },
+      {
+        "Id": 67,
+        "MovieId": 23,
+        "MovieTitle": "Toy Story 4",
+        "Title": "Toy Story 4: what audiences are saying",
+        "Summary": "Sample article about Toy Story 4, a 2019 Animation film currently rated 7.6 in the catalog.",
+        "Content": "Toy Story 4, directed by Josh Cooley, is a 2019 Animation film rated 7.6 in the catalog. Viewers most often mention the performances of Tom Hanks and Tim Allen. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-25T09:00:00Z",
+        "Url": "https://example.com/news/67",
+        "IsSample": true
+      },
+      {
+        "Id": 68,
+        "MovieId": 23,
+        "MovieTitle": "Toy Story 4",
+        "Title": "Spotlight: Tom Hanks and Tim Allen in Toy Story 4",
+        "Summary": "A sample cast spotlight for Toy Story 4.",
+        "Content": "Tom Hanks and Tim Allen are among the stars of Toy Story 4 (2019). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-24T06:00:00Z",
+        "Url": "https://example.com/news/68",
+        "IsSample": true
+      },
+      {
+        "Id": 69,
+        "MovieId": 23,
+        "MovieTitle": "Toy Story 4",
+        "Title": "A closer look at Josh Cooley's Toy Story 4",
+        "Summary": "Sample feature on Josh Cooley and Toy Story 4.",
+        "Content": "This sample feature looks at Toy Story 4 (2019), directed by Josh Cooley, and where it sits among Animation titles in the catalog with its 7.6 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-23T03:00:00Z",
+        "Url": "https://example.com/news/69",
+        "IsSample": true
+      },
+      {
+        "Id": 70,
+        "MovieId": 24,
+        "MovieTitle": "Toy Story 5",
+        "Title": "Toy Story 5: what audiences are saying",
+        "Summary": "Sample article about Toy Story 5, a 2026 Animation film currently rated 7.3 in the catalog.",
+        "Content": "Toy Story 5, directed by McKenna Harris, is a 2026 Animation film rated 7.3 in the catalog. Viewers most often mention the performances of Tom Hanks and Tim Allen. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-23T09:00:00Z",
+        "Url": "https://example.com/news/70",
+        "IsSample": true
+      },
+      {
+        "Id": 71,
+        "MovieId": 24,
+        "MovieTitle": "Toy Story 5",
+        "Title": "Spotlight: Tom Hanks and Tim Allen in Toy Story 5",
+        "Summary": "A sample cast spotlight for Toy Story 5.",
+        "Content": "Tom Hanks and Tim Allen are among the stars of Toy Story 5 (2026). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-22T06:00:00Z",
+        "Url": "https://example.com/news/71",
+        "IsSample": true
+      },
+      {
+        "Id": 72,
+        "MovieId": 24,
+        "MovieTitle": "Toy Story 5",
+        "Title": "A closer look at McKenna Harris's Toy Story 5",
+        "Summary": "Sample feature on McKenna Harris and Toy Story 5.",
+        "Content": "This sample feature looks at Toy Story 5 (2026), directed by McKenna Harris, and where it sits among Animation titles in the catalog with its 7.3 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-21T03:00:00Z",
+        "Url": "https://example.com/news/72",
+        "IsSample": true
+      },
+      {
+        "Id": 73,
+        "MovieId": 25,
+        "MovieTitle": "Inside Out",
+        "Title": "Inside Out: what audiences are saying",
+        "Summary": "Sample article about Inside Out, a 2015 Animation film currently rated 8.1 in the catalog.",
+        "Content": "Inside Out, directed by Ronnie Del Carmen, is a 2015 Animation film rated 8.1 in the catalog. Viewers most often mention the performances of Amy Poehler and Bill Hader. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-21T09:00:00Z",
+        "Url": "https://example.com/news/73",
+        "IsSample": true
+      },
+      {
+        "Id": 74,
+        "MovieId": 25,
+        "MovieTitle": "Inside Out",
+        "Title": "Spotlight: Amy Poehler and Bill Hader in Inside Out",
+        "Summary": "A sample cast spotlight for Inside Out.",
+        "Content": "Amy Poehler and Bill Hader are among the stars of Inside Out (2015). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-20T06:00:00Z",
+        "Url": "https://example.com/news/74",
+        "IsSample": true
+      },
+      {
+        "Id": 75,
+        "MovieId": 25,
+        "MovieTitle": "Inside Out",
+        "Title": "A closer look at Ronnie Del Carmen's Inside Out",
+        "Summary": "Sample feature on Ronnie Del Carmen and Inside Out.",
+        "Content": "This sample feature looks at Inside Out (2015), directed by Ronnie Del Carmen, and where it sits among Animation titles in the catalog with its 8.1 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-19T03:00:00Z",
+        "Url": "https://example.com/news/75",
+        "IsSample": true
+      },
+      {
+        "Id": 76,
+        "MovieId": 26,
+        "MovieTitle": "Inside Out 2",
+        "Title": "Inside Out 2: what audiences are saying",
+        "Summary": "Sample article about Inside Out 2, a 2024 Animation film currently rated 7.5 in the catalog.",
+        "Content": "Inside Out 2, directed by Kelsey Mann, is a 2024 Animation film rated 7.5 in the catalog. Viewers most often mention the performances of Amy Poehler and Maya Hawke. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-19T09:00:00Z",
+        "Url": "https://example.com/news/76",
+        "IsSample": true
+      },
+      {
+        "Id": 77,
+        "MovieId": 26,
+        "MovieTitle": "Inside Out 2",
+        "Title": "Spotlight: Amy Poehler and Maya Hawke in Inside Out 2",
+        "Summary": "A sample cast spotlight for Inside Out 2.",
+        "Content": "Amy Poehler and Maya Hawke are among the stars of Inside Out 2 (2024). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-18T06:00:00Z",
+        "Url": "https://example.com/news/77",
+        "IsSample": true
+      },
+      {
+        "Id": 78,
+        "MovieId": 26,
+        "MovieTitle": "Inside Out 2",
+        "Title": "A closer look at Kelsey Mann's Inside Out 2",
+        "Summary": "Sample feature on Kelsey Mann and Inside Out 2.",
+        "Content": "This sample feature looks at Inside Out 2 (2024), directed by Kelsey Mann, and where it sits among Animation titles in the catalog with its 7.5 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-17T03:00:00Z",
+        "Url": "https://example.com/news/78",
+        "IsSample": true
+      },
+      {
+        "Id": 79,
+        "MovieId": 27,
+        "MovieTitle": "The Incredibles",
+        "Title": "The Incredibles: what audiences are saying",
+        "Summary": "Sample article about The Incredibles, a 2004 Animation film currently rated 8.0 in the catalog.",
+        "Content": "The Incredibles, directed by Brad Bird, is a 2004 Animation film rated 8.0 in the catalog. Viewers most often mention the performances of Craig T. Nelson and Samuel L. Jackson. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-17T09:00:00Z",
+        "Url": "https://example.com/news/79",
+        "IsSample": true
+      },
+      {
+        "Id": 80,
+        "MovieId": 27,
+        "MovieTitle": "The Incredibles",
+        "Title": "Spotlight: Craig T. Nelson and Samuel L. Jackson in The Incredibles",
+        "Summary": "A sample cast spotlight for The Incredibles.",
+        "Content": "Craig T. Nelson and Samuel L. Jackson are among the stars of The Incredibles (2004). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-16T06:00:00Z",
+        "Url": "https://example.com/news/80",
+        "IsSample": true
+      },
+      {
+        "Id": 81,
+        "MovieId": 27,
+        "MovieTitle": "The Incredibles",
+        "Title": "A closer look at Brad Bird's The Incredibles",
+        "Summary": "Sample feature on Brad Bird and The Incredibles.",
+        "Content": "This sample feature looks at The Incredibles (2004), directed by Brad Bird, and where it sits among Animation titles in the catalog with its 8.0 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-15T03:00:00Z",
+        "Url": "https://example.com/news/81",
+        "IsSample": true
+      },
+      {
+        "Id": 82,
+        "MovieId": 28,
+        "MovieTitle": "The Incredibles 2",
+        "Title": "The Incredibles 2: what audiences are saying",
+        "Summary": "Sample article about The Incredibles 2, a 2018 Animation film currently rated 7.5 in the catalog.",
+        "Content": "The Incredibles 2, directed by Brad Bird, is a 2018 Animation film rated 7.5 in the catalog. Viewers most often mention the performances of Craig T. Nelson and Holly Hunter. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-15T09:00:00Z",
+        "Url": "https://example.com/news/82",
+        "IsSample": true
+      },
+      {
+        "Id": 83,
+        "MovieId": 28,
+        "MovieTitle": "The Incredibles 2",
+        "Title": "Spotlight: Craig T. Nelson and Holly Hunter in The Incredibles 2",
+        "Summary": "A sample cast spotlight for The Incredibles 2.",
+        "Content": "Craig T. Nelson and Holly Hunter are among the stars of The Incredibles 2 (2018). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-14T06:00:00Z",
+        "Url": "https://example.com/news/83",
+        "IsSample": true
+      },
+      {
+        "Id": 84,
+        "MovieId": 28,
+        "MovieTitle": "The Incredibles 2",
+        "Title": "A closer look at Brad Bird's The Incredibles 2",
+        "Summary": "Sample feature on Brad Bird and The Incredibles 2.",
+        "Content": "This sample feature looks at The Incredibles 2 (2018), directed by Brad Bird, and where it sits among Animation titles in the catalog with its 7.5 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-13T03:00:00Z",
+        "Url": "https://example.com/news/84",
+        "IsSample": true
+      },
+      {
+        "Id": 85,
+        "MovieId": 29,
+        "MovieTitle": "WALL E",
+        "Title": "WALL E: what audiences are saying",
+        "Summary": "Sample article about WALL E, a 2008 Animation film currently rated 8.4 in the catalog.",
+        "Content": "WALL E, directed by Andrew Stanton, is a 2008 Animation film rated 8.4 in the catalog. Viewers most often mention the performances of Ben Burtt and Elissa Knight. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-13T09:00:00Z",
+        "Url": "https://example.com/news/85",
+        "IsSample": true
+      },
+      {
+        "Id": 86,
+        "MovieId": 29,
+        "MovieTitle": "WALL E",
+        "Title": "Spotlight: Ben Burtt and Elissa Knight in WALL E",
+        "Summary": "A sample cast spotlight for WALL E.",
+        "Content": "Ben Burtt and Elissa Knight are among the stars of WALL E (2008). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-12T06:00:00Z",
+        "Url": "https://example.com/news/86",
+        "IsSample": true
+      },
+      {
+        "Id": 87,
+        "MovieId": 29,
+        "MovieTitle": "WALL E",
+        "Title": "A closer look at Andrew Stanton's WALL E",
+        "Summary": "Sample feature on Andrew Stanton and WALL E.",
+        "Content": "This sample feature looks at WALL E (2008), directed by Andrew Stanton, and where it sits among Animation titles in the catalog with its 8.4 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-11T03:00:00Z",
+        "Url": "https://example.com/news/87",
+        "IsSample": true
+      },
+      {
+        "Id": 88,
+        "MovieId": 30,
+        "MovieTitle": "Coco",
+        "Title": "Coco: what audiences are saying",
+        "Summary": "Sample article about Coco, a 2017 Animation film currently rated 8.4 in the catalog.",
+        "Content": "Coco, directed by Adrian Molina, is a 2017 Animation film rated 8.4 in the catalog. Viewers most often mention the performances of Anthony Gonzalez and Gael García Bernal. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-11T09:00:00Z",
+        "Url": "https://example.com/news/88",
+        "IsSample": true
+      },
+      {
+        "Id": 89,
+        "MovieId": 30,
+        "MovieTitle": "Coco",
+        "Title": "Spotlight: Anthony Gonzalez and Gael García Bernal in Coco",
+        "Summary": "A sample cast spotlight for Coco.",
+        "Content": "Anthony Gonzalez and Gael García Bernal are among the stars of Coco (2017). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-10T06:00:00Z",
+        "Url": "https://example.com/news/89",
+        "IsSample": true
+      },
+      {
+        "Id": 90,
+        "MovieId": 30,
+        "MovieTitle": "Coco",
+        "Title": "A closer look at Adrian Molina's Coco",
+        "Summary": "Sample feature on Adrian Molina and Coco.",
+        "Content": "This sample feature looks at Coco (2017), directed by Adrian Molina, and where it sits among Animation titles in the catalog with its 8.4 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-09T03:00:00Z",
+        "Url": "https://example.com/news/90",
+        "IsSample": true
+      },
+      {
+        "Id": 91,
+        "MovieId": 31,
+        "MovieTitle": "Ratatouille",
+        "Title": "Ratatouille: what audiences are saying",
+        "Summary": "Sample article about Ratatouille, a 2007 Animation film currently rated 8.1 in the catalog.",
+        "Content": "Ratatouille, directed by Brad Bird, is a 2007 Animation film rated 8.1 in the catalog. Viewers most often mention the performances of Brad Garrett and Lou Romano. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-09T09:00:00Z",
+        "Url": "https://example.com/news/91",
+        "IsSample": true
+      },
+      {
+        "Id": 92,
+        "MovieId": 31,
+        "MovieTitle": "Ratatouille",
+        "Title": "Spotlight: Brad Garrett and Lou Romano in Ratatouille",
+        "Summary": "A sample cast spotlight for Ratatouille.",
+        "Content": "Brad Garrett and Lou Romano are among the stars of Ratatouille (2007). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-08T06:00:00Z",
+        "Url": "https://example.com/news/92",
+        "IsSample": true
+      },
+      {
+        "Id": 93,
+        "MovieId": 31,
+        "MovieTitle": "Ratatouille",
+        "Title": "A closer look at Brad Bird's Ratatouille",
+        "Summary": "Sample feature on Brad Bird and Ratatouille.",
+        "Content": "This sample feature looks at Ratatouille (2007), directed by Brad Bird, and where it sits among Animation titles in the catalog with its 8.1 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-07T03:00:00Z",
+        "Url": "https://example.com/news/93",
+        "IsSample": true
+      },
+      {
+        "Id": 94,
+        "MovieId": 32,
+        "MovieTitle": "How to Train Your Dragon",
+        "Title": "How to Train Your Dragon: what audiences are saying",
+        "Summary": "Sample article about How to Train Your Dragon, a 2010 Animation film currently rated 8.1 in the catalog.",
+        "Content": "How to Train Your Dragon, directed by Dean DeBlois, is a 2010 Animation film rated 8.1 in the catalog. Viewers most often mention the performances of Jay Baruchel and Gerard Butler. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-07T09:00:00Z",
+        "Url": "https://example.com/news/94",
+        "IsSample": true
+      },
+      {
+        "Id": 95,
+        "MovieId": 32,
+        "MovieTitle": "How to Train Your Dragon",
+        "Title": "Spotlight: Jay Baruchel and Gerard Butler in How to Train Your Dragon",
+        "Summary": "A sample cast spotlight for How to Train Your Dragon.",
+        "Content": "Jay Baruchel and Gerard Butler are among the stars of How to Train Your Dragon (2010). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-06T06:00:00Z",
+        "Url": "https://example.com/news/95",
+        "IsSample": true
+      },
+      {
+        "Id": 96,
+        "MovieId": 32,
+        "MovieTitle": "How to Train Your Dragon",
+        "Title": "A closer look at Dean DeBlois's How to Train Your Dragon",
+        "Summary": "Sample feature on Dean DeBlois and How to Train Your Dragon.",
+        "Content": "This sample feature looks at How to Train Your Dragon (2010), directed by Dean DeBlois, and where it sits among Animation titles in the catalog with its 8.1 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-05T03:00:00Z",
+        "Url": "https://example.com/news/96",
+        "IsSample": true
+      },
+      {
+        "Id": 97,
+        "MovieId": 33,
+        "MovieTitle": "How to Train Your Dragon 2",
+        "Title": "How to Train Your Dragon 2: what audiences are saying",
+        "Summary": "Sample article about How to Train Your Dragon 2, a 2014 Animation film currently rated 7.8 in the catalog.",
+        "Content": "How to Train Your Dragon 2, directed by Dean DeBlois, is a 2014 Animation film rated 7.8 in the catalog. Viewers most often mention the performances of Jay Baruchel and Cate Blanchett. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-05T09:00:00Z",
+        "Url": "https://example.com/news/97",
+        "IsSample": true
+      },
+      {
+        "Id": 98,
+        "MovieId": 33,
+        "MovieTitle": "How to Train Your Dragon 2",
+        "Title": "Spotlight: Jay Baruchel and Cate Blanchett in How to Train Your Dragon 2",
+        "Summary": "A sample cast spotlight for How to Train Your Dragon 2.",
+        "Content": "Jay Baruchel and Cate Blanchett are among the stars of How to Train Your Dragon 2 (2014). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-04T06:00:00Z",
+        "Url": "https://example.com/news/98",
+        "IsSample": true
+      },
+      {
+        "Id": 99,
+        "MovieId": 33,
+        "MovieTitle": "How to Train Your Dragon 2",
+        "Title": "A closer look at Dean DeBlois's How to Train Your Dragon 2",
+        "Summary": "Sample feature on Dean DeBlois and How to Train Your Dragon 2.",
+        "Content": "This sample feature looks at How to Train Your Dragon 2 (2014), directed by Dean DeBlois, and where it sits among Animation titles in the catalog with its 7.8 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-03T03:00:00Z",
+        "Url": "https://example.com/news/99",
+        "IsSample": true
+      },
+      {
+        "Id": 100,
+        "MovieId": 34,
+        "MovieTitle": "How to Train Your Dragon: The Hidden World",
+        "Title": "How to Train Your Dragon: The Hidden World: what audiences are saying",
+        "Summary": "Sample article about How to Train Your Dragon: The Hidden World, a 2019 Animation film currently rated 7.4 in the catalog.",
+        "Content": "How to Train Your Dragon: The Hidden World, directed by Dean DeBlois, is a 2019 Animation film rated 7.4 in the catalog. Viewers most often mention the performances of Jay Baruchel and America Ferrera. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-03T09:00:00Z",
+        "Url": "https://example.com/news/100",
+        "IsSample": true
+      },
+      {
+        "Id": 101,
+        "MovieId": 34,
+        "MovieTitle": "How to Train Your Dragon: The Hidden World",
+        "Title": "Spotlight: Jay Baruchel and America Ferrera in How to Train Your Dragon: The Hidden World",
+        "Summary": "A sample cast spotlight for How to Train Your Dragon: The Hidden World.",
+        "Content": "Jay Baruchel and America Ferrera are among the stars of How to Train Your Dragon: The Hidden World (2019). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-08-02T06:00:00Z",
+        "Url": "https://example.com/news/101",
+        "IsSample": true
+      },
+      {
+        "Id": 102,
+        "MovieId": 34,
+        "MovieTitle": "How to Train Your Dragon: The Hidden World",
+        "Title": "A closer look at Dean DeBlois's How to Train Your Dragon: The Hidden World",
+        "Summary": "Sample feature on Dean DeBlois and How to Train Your Dragon: The Hidden World.",
+        "Content": "This sample feature looks at How to Train Your Dragon: The Hidden World (2019), directed by Dean DeBlois, and where it sits among Animation titles in the catalog with its 7.4 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-08-01T03:00:00Z",
+        "Url": "https://example.com/news/102",
+        "IsSample": true
+      },
+      {
+        "Id": 103,
+        "MovieId": 35,
+        "MovieTitle": "6 Days",
+        "Title": "6 Days: what audiences are saying",
+        "Summary": "Sample article about 6 Days, a 2025 Drama film currently rated 7.7 in the catalog.",
+        "Content": "6 Days, directed by Karim Shaaban, is a 2025 Drama film rated 7.7 in the catalog. Viewers most often mention the performances of Malek Emad and Ahmed Malek. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-08-01T09:00:00Z",
+        "Url": "https://example.com/news/103",
+        "IsSample": true
+      },
+      {
+        "Id": 104,
+        "MovieId": 35,
+        "MovieTitle": "6 Days",
+        "Title": "Spotlight: Malek Emad and Ahmed Malek in 6 Days",
+        "Summary": "A sample cast spotlight for 6 Days.",
+        "Content": "Malek Emad and Ahmed Malek are among the stars of 6 Days (2025). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-07-31T06:00:00Z",
+        "Url": "https://example.com/news/104",
+        "IsSample": true
+      },
+      {
+        "Id": 105,
+        "MovieId": 35,
+        "MovieTitle": "6 Days",
+        "Title": "A closer look at Karim Shaaban's 6 Days",
+        "Summary": "Sample feature on Karim Shaaban and 6 Days.",
+        "Content": "This sample feature looks at 6 Days (2025), directed by Karim Shaaban, and where it sits among Drama titles in the catalog with its 7.7 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-07-30T03:00:00Z",
+        "Url": "https://example.com/news/105",
+        "IsSample": true
+      },
+      {
+        "Id": 106,
+        "MovieId": 36,
+        "MovieTitle": "The Guest",
+        "Title": "The Guest: what audiences are saying",
+        "Summary": "Sample article about The Guest, a 2018 Drama film currently rated 6.5 in the catalog.",
+        "Content": "The Guest, directed by Hadi El Bagoury, is a 2018 Drama film rated 6.5 in the catalog. Viewers most often mention the performances of Khaled El-Sawi and Ahmed Malek. This is placeholder text for UI testing, not a real news report.",
+        "Source": "Sample News",
+        "Tags": [
+          "reviews",
+          "audience"
+        ],
+        "PublishedAt": "2026-07-30T09:00:00Z",
+        "Url": "https://example.com/news/106",
+        "IsSample": true
+      },
+      {
+        "Id": 107,
+        "MovieId": 36,
+        "MovieTitle": "The Guest",
+        "Title": "Spotlight: Khaled El-Sawi and Ahmed Malek in The Guest",
+        "Summary": "A sample cast spotlight for The Guest.",
+        "Content": "Khaled El-Sawi and Ahmed Malek are among the stars of The Guest (2018). This sample entry exists so your frontend can render cast-related news cards. Replace it with real content before launch.",
+        "Source": "Sample News",
+        "Tags": [
+          "cast",
+          "spotlight"
+        ],
+        "PublishedAt": "2026-07-29T06:00:00Z",
+        "Url": "https://example.com/news/107",
+        "IsSample": true
+      },
+      {
+        "Id": 108,
+        "MovieId": 36,
+        "MovieTitle": "The Guest",
+        "Title": "A closer look at Hadi El Bagoury's The Guest",
+        "Summary": "Sample feature on Hadi El Bagoury and The Guest.",
+        "Content": "This sample feature looks at The Guest (2018), directed by Hadi El Bagoury, and where it sits among Drama titles in the catalog with its 6.5 rating. Placeholder content for development and testing only.",
+        "Source": "Sample News",
+        "Tags": [
+          "director",
+          "feature"
+        ],
+        "PublishedAt": "2026-07-28T03:00:00Z",
+        "Url": "https://example.com/news/108",
+        "IsSample": true
+      }
+    ],
+    "Total": 108
+  }
